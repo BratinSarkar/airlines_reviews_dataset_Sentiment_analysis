@@ -1,0 +1,11 @@
+Frequent Staff,Frequent Locations,Common Entities,Entity Sentiment Score,Entity Sentiment Label
+Cabin,Doha,United,0.019283495821727024,Positive
+London Heathrow,London,BA,0.07436624396135266,Positive
+JFK,Delhi,Air India,-0.10846995359628771,Negative
+WiFi,Qatar,Qatar Airways,0.6270498519249754,Positive
+Covid,Mumbai,British Airways,-0.023183847283406743,Negative
+Ryanair,Chicago,United Airlines,0.0164100642398287,Positive
+Onboard,Bangkok,Boeing,0.5224194285714285,Positive
+Goa,Newark,Indigo,0.20561754385964914,Positive
+Trip,Denver,LHR,0.236540625,Positive
+Gatwick,India,DOH,0.5173073482428115,Positive

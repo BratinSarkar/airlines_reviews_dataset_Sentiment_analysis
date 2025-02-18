@@ -1,0 +1,1853 @@
+Airline,Location,Positive Mentions,Negative Mentions,Total Mentions,Average Sentiment
+British Airways,Cologne,0,2,2,-0.8033
+British Airways,Europe,39,25,64,0.20814218750000002
+British Airways,Underground,0,1,1,-0.682
+British Airways,London,482,541,1025,-0.011620195121951137
+British Airways,Johannesburg,30,24,55,0.1317636363636364
+British Airways,Airline,2,1,3,0.07373333333333332
+British Airways,Rome,21,24,45,-0.03382666666666665
+British Airways,DC,1,1,2,-0.1941
+British Airways,Washington,13,12,25,0.14680800000000002
+British Airways,England,7,5,12,0.130875
+British Airways,AirTag,0,1,1,-0.9716
+British Airways,Emirates,25,14,39,0.2928717948717949
+British Airways,Qatar,14,11,25,0.14604799999999998
+British Airways,china,3,1,4,0.49377499999999996
+British Airways,Mexico City,10,2,12,0.6230749999999999
+British Airways,Amsterdam,20,34,54,-0.285388888888889
+British Airways,Belfast,15,14,29,0.006265517241379359
+British Airways,Etihad,0,2,2,-0.64485
+British Airways,UA,0,1,1,-0.9081
+British Airways,Iceland,3,11,14,-0.6013857142857143
+British Airways,Emily,1,0,1,0.9201
+British Airways,Club Class,2,4,6,-0.23985
+British Airways,BA,7,2,9,0.5030555555555556
+British Airways,Mumbai,13,7,20,0.3190450000000001
+British Airways,Brinelle,0,1,1,-0.901
+British Airways,Singapore,43,30,73,0.21958082191780814
+British Airways,Munich,8,10,18,-0.06935555555555559
+British Airways,Boston,21,13,34,0.14193529411764705
+British Airways,Inflight,1,0,1,0.9001
+British Airways,Canada,4,6,10,-0.14996000000000004
+British Airways,Naples,4,2,6,0.4475833333333334
+British Airways,Istanbul,8,20,28,-0.32375000000000004
+British Airways,Dubai,13,22,35,-0.15521714285714286
+British Airways,europe,1,1,2,-0.06705
+British Airways,Mexico,4,2,6,0.31915000000000004
+British Airways,Aeromexico,0,2,2,-0.4215
+British Airways,UK,34,40,74,-0.05249189189189187
+British Airways,Paris,7,25,32,-0.43213749999999995
+British Airways,Hilton,2,1,3,0.3332333333333333
+British Airways,Geneva,7,15,22,-0.194790909090909
+British Airways,Club,10,8,19,0.08239473684210523
+British Airways,New York,17,22,39,-0.07518461538461539
+British Airways,World Traveler Plus,1,0,1,0.9825
+British Airways,Seattle,13,10,24,0.17647916666666666
+British Airways,Lisbon Portugal,1,0,1,0.6474
+British Airways,Edinburgh,26,18,44,0.25363409090909095
+British Airways,LHR,2,4,6,-0.19386666666666666
+British Airways,Delhi,6,12,18,0.01527222222222223
+British Airways,France,6,2,8,0.41255
+British Airways,Marrakech,2,5,7,-0.1933
+British Airways,Berlin,15,11,26,0.19800384615384617
+British Airways,Nashville,2,3,5,-0.24211999999999997
+British Airways,Venice,4,13,17,-0.39672941176470594
+British Airways,Berlin Brandenburg,0,1,1,-0.9371
+British Airways,T5,7,6,13,0.2101846153846154
+British Airways,Hong Kong,18,19,37,-0.014102702702702703
+British Airways,Doha,11,6,17,0.18691176470588236
+British Airways,Newark,10,5,15,0.25112
+British Airways,Titan,1,2,3,0.05383333333333332
+British Airways,Pakistan,3,0,3,0.34
+British Airways,Zurich,6,15,21,-0.49116190476190474
+British Airways,Brussels,13,8,21,0.27476666666666666
+British Airways,India,7,12,19,-0.21444210526315788
+British Airways,Glasgow,11,7,18,0.10849444444444446
+British Airways,the Middle East,2,1,3,0.2126333333333333
+British Airways,London City,14,9,23,0.1273391304347826
+British Airways,Barcelona,7,14,21,-0.30738571428571426
+British Airways,São Paulo,0,1,1,-0.9757
+British Airways,Vancouver,21,19,40,0.09245249999999998
+British Airways,US,18,16,34,0.10741470588235295
+British Airways,Gatwick,59,37,96,0.23745625000000017
+British Airways,Oslo,1,4,5,-0.48486
+British Airways,Florence,0,1,1,-0.9368
+British Airways,Tokyo,10,11,21,-0.11338571428571428
+British Airways,SF,3,0,3,0.935
+British Airways,Heathrow,6,5,11,0.12197272727272726
+British Airways,Tampa,9,5,14,0.19004999999999997
+British Airways,Los Angeles,9,20,29,-0.3245724137931035
+British Airways,Dublin,10,36,46,-0.41337173913043496
+British Airways,Hannover,2,3,5,-0.16094
+British Airways,UK 50p,1,0,1,0.9921
+British Airways,Vienna,6,0,7,0.5427714285714286
+British Airways,Virgin,3,8,12,-0.30472499999999997
+British Airways,Front,0,1,1,-0.7489
+British Airways,San Francisco,13,16,29,-0.12447586206896555
+British Airways,Las Vegas,8,11,19,-0.10247894736842104
+British Airways,Vegas,1,1,2,0.45099999999999996
+British Airways,the Las Vegas,1,0,1,0.95
+British Airways,Milan,4,12,16,-0.28540625000000003
+British Airways,Miami,23,29,52,-0.1321557692307691
+British Airways,JUMP,0,1,1,-0.8422
+British Airways,Frankfurt,6,18,24,-0.3680125
+British Airways,Africa,2,1,3,0.6224333333333333
+British Airways,Madrid,22,46,68,-0.24637352941176474
+British Airways,Phoenix,6,15,21,-0.20499523809523817
+British Airways,Rotterdam,3,4,7,-0.19680000000000003
+British Airways,Docklands,1,1,2,-0.09865000000000002
+British Airways,Spain,3,6,9,-0.3629777777777778
+British Airways,Lisbon,11,5,16,0.29917499999999997
+British Airways,Nice,7,15,22,-0.3084272727272727
+British Airways,HND,5,1,6,0.31484999999999996
+British Airways,trans-Atlantic,2,1,3,0.5881333333333333
+British Airways,Barbados,6,4,11,-0.005981818181818189
+British Airways,Toronto,30,12,42,0.4165190476190478
+British Airways,Sydney,15,13,28,0.054349999999999996
+British Airways,Auckland,0,1,1,-0.9674
+British Airways,Menzies,0,1,1,-0.9674
+British Airways,Asiana,0,1,1,-0.9674
+British Airways,Club Europe,59,27,86,0.3536220930232557
+British Airways,Webjet Australia,0,1,1,-0.9521
+British Airways,Porto middle of,0,1,1,-0.9521
+British Airways,Australia,5,7,12,-0.1689833333333334
+British Airways,USA,5,12,17,-0.4529588235294117
+British Airways,Economy,7,3,10,0.31958999999999993
+British Airways,Ireland,2,2,4,0.071875
+British Airways,Casablanca,2,1,3,0.3011333333333333
+British Airways,Iberia,10,22,32,-0.325228125
+British Airways,Cancun,2,1,3,0.5444333333333333
+British Airways,Warsaw,6,7,13,-0.047153846153846185
+British Airways,Virgin Atlantic,1,7,8,-0.6645
+British Airways,virgin,0,1,1,-0.6894
+British Airways,Sao Paulo Airport Duty Free,1,0,1,0.5013
+British Airways,Cairo,6,9,15,-0.14114666666666664
+British Airways,Iberia 2nd,0,1,1,-0.9482
+British Airways,Les Arc,0,1,1,-0.8462
+British Airways,Japan,3,1,4,0.503475
+British Airways,Stockholm,10,7,17,-0.005211764705882349
+British Airways,Bidvest,1,0,1,0.9971
+British Airways,Beijing,8,2,10,0.5091600000000001
+British Airways,Portugal,1,2,3,-0.13923333333333335
+British Airways,Atlanta,3,1,4,0.532775
+British Airways,Anchorage,0,1,1,-0.96
+British Airways,Gibraltar,7,2,9,0.3899888888888889
+British Airways,Porto,0,4,4,-0.900075
+British Airways,Malta,3,1,4,0.6378
+British Airways,B.A.,1,0,1,0.9628
+British Airways,Austin,6,2,8,0.5698500000000002
+British Airways,Club Europe',1,1,2,-0.21795000000000003
+British Airways,Chicago,14,24,38,-0.2729842105263157
+British Airways,Athens,7,25,32,-0.33863749999999987
+British Airways,Dallas,1,9,10,-0.56064
+British Airways,Florida,1,2,3,-0.2563
+British Airways,Prague,5,10,15,-0.2773933333333333
+British Airways,Hamburg,4,11,15,-0.43343999999999994
+British Airways,las Vegas,0,1,1,-0.8481
+British Airways,Italy,6,7,13,0.031207692307692304
+British Airways,Tambo International,0,1,1,-0.3506
+British Airways,South Africa,6,6,12,0.03330833333333333
+British Airways,Victoria,3,1,4,0.484375
+British Airways,Expedia,1,5,6,-0.573
+British Airways,Bombay,2,0,2,0.9326
+British Airways,Michigan,1,0,1,0.6692
+British Airways,Zimbabwe,0,1,1,-0.891
+British Airways,Turin,1,1,2,0.014500000000000013
+British Airways,Breakfast,2,0,2,0.9712000000000001
+British Airways,North,2,0,2,0.9712000000000001
+British Airways,Malaga,0,4,4,-0.547825
+British Airways,Arctic Cruise,0,1,1,-0.8384
+British Airways,New Zealand,1,1,2,0.03049999999999997
+British Airways,BA059,0,1,1,-0.2558
+British Airways,North Carolina,2,0,2,0.2584
+British Airways,Lima,1,4,5,-0.21984000000000004
+British Airways,Cuzco,0,1,1,-0.7304
+British Airways,Amman,5,1,6,0.48274999999999996
+British Airways,NYC,4,2,6,0.3782833333333333
+British Airways,Kalamata,4,1,5,0.66082
+British Airways,U.K.,1,1,2,-0.030349999999999988
+British Airways,Monaco,1,1,2,0.22039999999999998
+British Airways,St. Andrews,0,1,1,-0.25
+British Airways,Las Vegas-Chicago-,0,1,1,-0.9246
+British Airways,Itsu,0,1,1,-0.789
+British Airways,Tel Aviv,8,3,11,0.23369090909090912
+British Airways,Switzerland,1,2,3,-0.04360000000000001
+British Airways,Sweden,1,3,5,-0.40526
+British Airways,Premium,1,5,6,-0.49418333333333325
+British Airways,Denmark,4,0,4,0.770925
+British Airways,Budapest,9,7,16,0.05660625000000001
+British Airways,Asia,2,3,5,-0.16448
+British Airways,BA297,0,1,1,-0.9747
+British Airways,Algeria,0,1,1,-0.8841
+British Airways,Puerto Rico,0,2,2,-0.9554
+British Airways,Verspätung,0,1,1,-0.9554
+British Airways,Americas,1,1,2,-0.009950000000000014
+British Airways,Nassau,4,0,4,0.97205
+British Airways,Calgary,5,4,9,0.2359888888888889
+British Airways,Nutrigain,1,0,1,0.9927
+British Airways,Orlando,8,8,16,-0.0745875
+British Airways,Salzburg,1,3,4,-0.443075
+British Airways,Bangkok,15,16,31,0.03662903225806454
+British Airways,Kuwaiti,0,1,1,-0.4094
+British Airways,Germany,1,3,4,-0.47265
+British Airways,n’t,4,0,4,0.841525
+British Airways,LA,0,2,2,-0.8735999999999999
+British Airways,Islamabad,2,0,2,0.8856
+British Airways,Legal,1,0,1,0.9933
+British Airways,Gulf,3,1,4,0.45389999999999997
+British Airways,Melbourne,1,3,4,-0.270725
+British Airways,New Delhi,0,2,2,-0.9646
+British Airways,t5,1,0,1,0.9251
+British Airways,wellington,1,0,1,0.9251
+British Airways,Maldives,1,0,1,0.9251
+British Airways,Turkey,0,2,2,-0.9570000000000001
+British Airways,Denver,2,5,7,-0.2607428571428571
+British Airways,Montreal,3,12,15,-0.6020866666666667
+British Airways,Scotland,1,1,2,-0.06675000000000003
+British Airways,Cape Town,13,7,20,0.2708049999999999
+British Airways,Fortalaza,0,1,1,-0.7687
+British Airways,Nairobi,5,5,10,-0.09655999999999997
+British Airways,America,1,2,3,-0.3467
+British Airways,Great Britain,0,1,1,-0.9938
+British Airways,Southwest,1,0,1,0.659
+British Airways,Jersey,0,3,3,-0.707
+British Airways,Gothenburg,3,4,7,-0.15454285714285712
+British Airways,Manchester,5,8,13,-0.1946692307692308
+British Airways,Philippines,0,1,1,-0.858
+British Airways,Manila,0,1,1,-0.858
+British Airways,London City Airport,1,1,2,-0.07300000000000001
+British Airways,Baltimore,1,4,5,-0.39299999999999996
+British Airways,June-2022,1,0,1,0.3585
+British Airways,Netherlands,4,0,4,0.515825
+British Airways,Atlantic,3,2,5,0.19822
+British Airways,Covid,1,3,4,-0.29085
+British Airways,the Far East,2,1,3,0.47013333333333335
+British Airways,Australasia,0,1,1,-0.5482
+British Airways,Greece,4,1,5,0.49338
+British Airways,A80,0,1,1,-0.6844
+British Airways,Arham,1,0,1,0.9902
+British Airways,Aircon,0,1,1,-0.6139
+British Airways,Basel,1,2,3,-0.06170000000000001
+British Airways,UI,0,1,1,-0.5267
+British Airways,B777,5,0,5,0.9600799999999999
+British Airways,Funchal,0,4,4,-0.625175
+British Airways,Madeira,3,6,9,-0.019177777777777776
+British Airways,Antalya,1,1,2,0.375
+British Airways,AUS,1,0,1,0.9531
+British Airways,Suffice,1,0,1,0.0951
+British Airways,us,2,3,5,-0.06136000000000001
+British Airways,Hertfordshire,1,0,1,0.9246
+British Airways,Newcastle,8,6,14,0.24363571428571426
+British Airways,Detroit,0,1,1,-0.79
+British Airways,South Lounge,1,0,1,0.4523
+British Airways,Bahrain,2,2,4,-0.246025
+British Airways,Aberdeen,5,1,6,0.24401666666666666
+British Airways,Alaska,1,2,3,-0.4404666666666666
+British Airways,Egypt,1,2,3,-0.2605
+British Airways,Delta,0,4,4,-0.923675
+British Airways,South,3,0,3,0.9842
+British Airways,Tenerife South,1,0,1,0.9745
+British Airways,Riu Paradise Beach,0,1,1,-0.8945
+British Airways,Larnaca,8,5,13,0.27975384615384613
+British Airways,Tenerife,2,1,3,0.0042333333333333485
+British Airways,Mykonos,1,1,2,0.10950000000000004
+British Airways,U.S.,0,1,1,-0.7059
+British Airways,Tirana,5,2,7,0.30457142857142855
+British Airways,Washington-London,0,1,1,-0.9287
+British Airways,Catania,0,1,1,-0.0516
+British Airways,Netflix,1,0,1,0.9812
+British Airways,Hungary,1,1,2,0.002799999999999969
+British Airways,Antigua,3,3,6,0.01206666666666667
+British Airways,Moscow,6,5,11,0.4013090909090909
+British Airways,Russia,1,1,2,0.39844999999999997
+British Airways,Lahore,0,1,1,-0.4994
+British Airways,Preludium,1,0,1,0.9979
+British Airways,Corona,2,1,3,0.37953333333333333
+British Airways,San Diego,5,6,11,-0.04118181818181817
+British Airways,Aircraft,1,0,1,0.7783
+British Airways,Lower Deck Club Class,0,1,1,-0.9618
+British Airways,New York JFK,7,8,15,0.034493333333333265
+British Airways,Buenos Aires,2,4,6,-0.3567833333333334
+British Airways,Middle Eastern,0,2,2,-0.68065
+British Airways,Britain,2,1,3,0.33983333333333327
+British Airways,Rio de Janeiro,0,2,2,-0.8789
+British Airways,Magnum,1,0,1,0.9702
+British Airways,Sofia,13,4,17,0.3988529411764705
+British Airways,San Diego-,0,1,1,-0.8922
+British Airways,Accra,1,2,3,-0.23663333333333336
+British Airways,Ghana,0,1,1,-0.807
+British Airways,San Jose,8,4,12,0.23665833333333333
+British Airways,atlantic,1,0,1,0.9827
+British Airways,Rio De Janeiro,2,0,2,0.9492
+British Airways,Billund,3,0,3,0.9570666666666666
+British Airways,T3,1,1,2,0.060750000000000026
+British Airways,Oneworld,1,0,1,0.9714
+British Airways,Taiwan,0,3,3,-0.8482333333333334
+British Airways,Bangalore,0,1,1,-0.7096
+British Airways,WestJet,0,1,1,-0.8877
+British Airways,Economy Plus,0,1,1,-0.8224
+British Airways,Seychelles,4,0,4,0.97035
+British Airways,claustrophobia,1,0,1,0.8655
+British Airways,Jeddah,3,0,3,0.6529333333333333
+British Airways,Hyderabad,2,4,6,-0.32821666666666666
+British Airways,Kuala Lumpur,13,4,17,0.5016882352941177
+British Airways,States,1,0,1,0.9951
+British Airways,CE,1,0,1,0.8768
+British Airways,Tegel,1,0,1,0.7621
+British Airways,Flying London City,0,1,1,-0.3595
+British Airways,Kefalonia,2,0,2,0.8555
+British Airways,Seville,3,1,4,0.38635
+British Airways,Abuja,0,1,1,-0.4497
+British Airways,Lagos,0,4,4,-0.738825
+British Airways,Belfast City,3,0,3,0.9112
+British Airways,the National Carrier,1,0,1,0.7501
+British Airways,Abu Dhabi,2,5,7,-0.08155714285714286
+British Airways,Etihad‘s,1,0,1,0.902
+British Airways,St Petersburgh,0,1,1,-0.782
+British Airways,Shanghai,3,5,8,-0.1803625
+British Airways,New Orleans,4,2,6,0.4167166666666667
+British Airways,Marstal,0,2,2,-0.9974
+British Airways,Costa Rica,3,2,5,0.020699999999999986
+British Airways,VCE,1,0,1,0.9616
+British Airways,Inverness,1,1,2,0.045650000000000024
+British Airways,Ibiza,0,1,1,-0.8387
+British Airways,Bulgaria,2,0,2,0.94585
+British Airways,Kuwait,2,1,3,0.35313333333333335
+British Airways,Argentina,1,0,1,0.9294
+British Airways,Grenada,2,0,2,0.777
+British Airways,Israel,2,0,2,0.9548000000000001
+British Airways,Marseille,0,2,2,-0.5263
+British Airways,x2.5,0,1,1,-0.1372
+British Airways,Olbia,0,1,1,-0.9726
+British Airways,Sardinia,0,3,3,-0.9726
+British Airways,Seating,1,0,1,0.9802
+British Airways,Kuching,1,0,1,0.9598
+British Airways,Seoul,5,1,6,0.4626166666666666
+British Airways,Linate,1,0,1,0.9859
+British Airways,Leeds,2,0,2,0.982
+British Airways,Brisbane,1,0,1,0.8968
+British Airways,Houston,4,2,6,0.33688333333333337
+British Airways,Bucharest,3,3,6,0.09708333333333335
+British Airways,Bengaluru,1,1,2,0.0043999999999999595
+British Airways,Bridgetown,1,0,1,0.775
+British Airways,Cafeteria,0,1,1,-0.8883
+British Airways,Stephen,1,0,1,0.9877
+British Airways,Tenerife to Heathrow,1,0,1,0.9685
+British Airways,Ontario,0,1,1,-0.6093
+British Airways,California,1,4,5,-0.4288
+British Airways,Caribbean,0,1,1,-0.9614
+British Airways,Premium Economy,3,2,5,0.00593999999999998
+British Airways,Thai,0,1,1,-0.3816
+British Airways,’s,1,0,1,0.9504
+British Airways,Piladelphia via London,0,1,1,-0.952
+British Airways,Philadelphia,6,8,14,-0.09030000000000006
+British Airways,Swissport,1,0,1,0.9081
+British Airways,Bermuda,1,0,1,0.1775
+British Airways,Fort Lauderdale,4,0,4,0.6555
+British Airways,Bologna,1,2,3,0.16090000000000002
+British Airways,Halal,1,0,1,0.987
+British Airways,Thailand,2,3,5,-0.25132
+British Airways,Malaysia,2,1,3,0.27536666666666665
+British Airways,Krug,1,0,1,0.9951
+British Airways,Nassau to,1,0,1,0.4903
+British Airways,BA Germany,0,1,1,-0.9127
+British Airways,Stuttgart,2,2,4,-0.3502
+British Airways,USB,1,0,1,0.3919
+British Airways,San Fransisco,0,1,1,-0.197
+British Airways,Riyadh,0,1,1,-0.5984
+British Airways,Business,3,0,3,0.7979333333333333
+British Airways,St.Petersburg,1,0,1,0.9871
+British Airways,Tuscany,2,1,3,0.5282666666666667
+British Airways,World Traveller Plus,2,0,2,0.99045
+British Airways,Brindisi,1,1,2,-0.2266
+British Airways,Lasagne,1,0,1,0.9738
+British Airways,Zagreb,0,2,2,-0.6285499999999999
+British Airways,Biz,3,0,3,0.9942666666666665
+British Airways,Ataturk,1,0,1,0.8885
+British Airways,Prosecco,1,0,1,0.9821
+British Airways,Upper,1,0,1,0.9821
+British Airways,Hong Kong Airport Express,1,0,1,0.9905
+British Airways,hadn´t,1,0,1,0.8839
+British Airways,S Africa,1,0,1,0.5719
+British Airways,BA169,0,1,1,-0.6631
+British Airways,Tehran,0,1,1,-0.7828
+British Airways,LH,3,0,3,0.9212333333333333
+British Airways,Birmingham,0,1,1,-0.9086
+British Airways,JK,0,1,1,-0.6429
+British Airways,Jo'burg,0,1,1,-0.8745
+British Airways,Corfu,2,0,2,0.64815
+British Airways,Dulles,3,0,3,0.9305666666666667
+British Airways,Soho,1,0,1,0.943
+British Airways,Mecca,1,0,1,0.964
+British Airways,Rio,1,0,1,0.6812
+British Airways,middle east,1,0,1,0.7803
+British Airways,Sao Paulo,2,1,3,0.30433333333333334
+British Airways,Brazil,0,2,2,-0.9815
+British Airways,Nigeria,0,1,1,-0.8352
+British Airways,Muscat,1,0,1,0.9938
+British Airways,Helsinki,1,0,1,0.9577
+British Airways,Duesseldorf,0,1,1,-0.8179
+British Airways,China,0,3,3,-0.8876
+British Airways,Belfast City Airport,1,0,1,0.8225
+British Airways,the New York,0,1,1,-0.9604
+British Airways,Tobago,2,0,2,0.7814
+British Airways,Panama City,0,1,1,-0.9693
+British Airways,Middle East,3,0,3,0.7419666666666668
+British Airways,LGW,1,2,3,-0.29696666666666666
+British Airways,Charlotte,0,3,3,-0.9667
+British Airways,east coast,1,0,1,0.9872
+British Airways,london,0,1,1,-0.9874
+British Airways,New York JFK - Budapest,0,1,1,-0.836
+British Airways,Toulouse,1,0,1,0.8798
+British Airways,Santiago,1,1,2,0.2539
+British Airways,OW,0,1,1,-0.9221
+British Airways,Saint Lucia,0,1,1,-0.6755
+British Airways,Verona,0,2,2,-0.8869
+British Airways,the Lake District,0,1,1,-0.2079
+British Airways,Belgium,0,1,1,-0.387
+British Airways,Korea,1,1,2,0.1709
+British Airways,Oakland,2,1,3,0.45170000000000005
+British Airways,Kingston,1,0,1,0.2944
+British Airways,BA168 Shanghai,0,1,1,-0.8106
+British Airways,Midland,0,1,1,-0.2551
+British Airways,n’t Easy,1,0,1,0.8217
+British Airways,South Terminal,1,0,1,0.8587
+British Airways,the Atlantic Ocean,1,0,1,0.8883
+British Airways,St. Lucia,1,0,1,0.9875
+British Airways,Port of Spain,1,0,1,0.9875
+British Airways,Bilbao,2,2,4,0.3413
+British Airways,Lacto,0,1,1,-0.4767
+British Airways,Krakow,1,1,2,0.18160000000000004
+British Airways,"Abuja, Nigeria",0,1,1,-0.2328
+British Airways,PE,1,0,1,0.477
+British Airways,Umami,0,1,1,-0.941
+British Airways,Fanta,1,0,1,0.9923
+British Airways,Rhodes,0,2,2,-0.9941
+British Airways,Poland,1,0,1,0.4497
+British Airways,Bergen,1,2,3,-0.28486666666666666
+British Airways,Tallinn,1,0,1,0.9808
+British Airways,Genoa,1,0,1,0.9011
+British Airways,Luxembourg,3,0,3,0.7733666666666666
+British Airways,"Silver, Sapphire",0,1,1,-0.9048
+British Airways,Bordeaux,1,0,1,0.4639
+British Airways,D.C.,0,1,1,-0.9343
+British Airways,Texas,1,0,1,0.9284
+British Airways,NC,0,1,1,-0.9683
+British Airways,United,1,1,2,0.014649999999999996
+British Airways,berlin,1,0,1,0.9265
+British Airways,City,1,0,1,0.5267
+British Airways,Northern Europe,1,0,1,0.9491
+British Airways,Zürich,1,0,1,0.9851
+British Airways,the South Terminal,1,0,1,0.976
+British Airways,World Traveller,1,0,1,0.9908
+British Airways,FedEx,1,0,1,0.0056
+British Airways,Oceania,1,0,1,0.0056
+British Airways,Peru,0,1,1,-0.3559
+British Airways,Orange County,0,1,1,-0.5854
+British Airways,Oman,0,4,4,-0.9327
+British Airways,Olympic,1,0,1,0.9625
+British Airways,BA Europe,0,1,1,-0.6146
+British Airways,Breakfast Bar,1,0,1,0.9877
+British Airways,Lunch,1,0,1,0.9877
+British Airways,Cyprus,0,1,1,-0.8425
+British Airways,Mars,1,0,1,0.34
+British Airways,Luanda,0,1,1,-0.6808
+British Airways,Boots,0,1,1,-0.9512
+Air India,Delhi,380,543,925,-0.1470149189189186
+Air India,US,11,16,27,-0.1570296296296296
+Air India,London,58,88,146,-0.16633493150684917
+Air India,Mumbai,176,191,370,-0.03150837837837833
+Air India,Bangkok,14,40,54,-0.3746981481481481
+Air India,India,71,126,199,-0.23388341708542718
+Air India,Frankfurt,22,8,30,0.2638433333333334
+Air India,New Delhi,47,47,94,-0.060739361702127626
+Air India,Chicago,19,30,49,-0.20512040816326532
+Air India,Red,1,0,1,0.4779
+Air India,Dubai,20,40,60,-0.1804216666666668
+Air India,San Francisco,8,20,28,-0.3842357142857143
+Air India,Helsinki,0,1,1,-0.93
+Air India,Vienna,4,3,7,-0.19172857142857144
+Air India,Kathmandu,16,21,37,-0.23563513513513515
+Air India,Vancouver,3,12,15,-0.5583466666666668
+Air India,Hyderabad,12,35,48,-0.34636666666666655
+Air India,Addis Ababa,0,1,1,-0.4295
+Air India,South Africa,0,1,1,-0.4295
+Air India,Addis,0,1,1,-0.4295
+Air India,geprobeerd,0,1,1,-0.4516
+Air India,USA,1,9,10,-0.7127
+Air India,Sydney,17,51,68,-0.4417073529411767
+Air India,Ahmedabad,8,20,28,-0.3977714285714288
+Air India,Kathmandu Nepal,0,1,1,-0.4679
+Air India,Nepal,0,1,1,-0.4679
+Air India,USD12,0,1,1,-0.4679
+Air India,Canada,0,6,6,-0.6813333333333333
+Air India,Toronto,8,40,49,-0.5650897959183672
+Air India,Chennai,0,4,4,-0.829075
+Air India,Leh,0,5,5,-0.9377600000000001
+Air India,DEL,20,16,36,0.14102777777777775
+Air India,YYZ,2,1,3,0.2152333333333333
+Air India,Washington DC,2,1,3,0.3044
+Air India,Emirates,12,6,18,0.36280555555555555
+Air India,DC,2,0,2,0.9667
+Air India,Singapore,32,28,60,-0.020970000000000048
+Air India,Bangalore,7,3,10,0.32157
+Air India,Paris,20,17,37,-0.05760540540540531
+Air India,india,1,9,10,-0.74915
+Air India,Washington,2,10,12,-0.5937750000000002
+Air India,Pune,1,5,6,-0.6095999999999999
+Air India,Europe,2,3,5,-0.060020000000000004
+Air India,LHR,2,1,3,0.12096666666666667
+Air India,Montreal,1,1,2,-0.40740000000000004
+Air India,Kuwait,0,2,2,-0.9086000000000001
+Air India,Tokyo,5,5,10,0.0134
+Air India,Australia,5,6,11,-0.007263636363636371
+Air India,Gold Coast,1,0,1,0.3431
+Air India,Melbourne,27,33,60,-0.026419999999999978
+Air India,the Gold Coast,1,0,1,0.3431
+Air India,Colombo,3,3,6,-0.01739999999999999
+Air India,Ladakh,1,0,1,0.9647
+Air India,Lucknow,8,6,14,0.006242857142857141
+Air India,Seoul,5,5,10,-0.22199
+Air India,New York,8,19,27,-0.24867037037037032
+Air India,Haldiram,0,1,1,-0.9493
+Air India,Duty,0,1,1,-0.9493
+Air India,Vistara,1,3,4,-0.4374
+Air India,Premium Economy,0,1,1,-0.7422
+Air India,Newark,21,37,58,-0.21760344827586212
+Air India,n’t,3,3,6,-0.0843666666666667
+Air India,United States,0,1,1,-0.7544
+Air India,Thiruvanthapuram,1,0,1,0.9789
+Air India,Abu Dhabi,0,2,2,-0.93455
+Air India,Rajkot,2,1,3,0.17766666666666667
+Air India,Counter,0,1,1,-0.979
+Air India,MEL,2,0,2,0.99065
+Air India,Chhaya,1,0,1,0.991
+Air India,Yash,1,0,1,0.991
+Air India,Baggage,1,0,1,0.961
+Air India,Aircraft,0,2,2,-0.9077
+Air India,New Jersey,0,1,1,-0.802
+Air India,Bombay,5,11,16,-0.3690125000000001
+Air India,Kerala,0,3,3,-0.9968
+Air India,new Delhi,0,1,1,-0.9582
+Air India,Berlin,1,0,1,0.9793
+Air India,UK,1,15,16,-0.7097124999999999
+Air India,Sept 03/2023,1,0,1,0.6049
+Air India,Cochin,1,1,2,-0.01040000000000002
+Air India,Venkatesan,1,0,1,0.9555
+Air India,Spice,0,2,2,-0.9613
+Air India,Kolkata,18,22,40,-0.04631
+Air India,Italy,0,1,1,-0.9115
+Air India,the Middle Ages,0,1,1,-0.732
+Air India,mango,1,0,1,0.9418
+Air India,Pune-Delhi,1,0,1,0.9935
+Air India,Syd - Del,1,0,1,0.9578
+Air India,Airindia,0,2,2,-0.9393
+Air India,Saudi Arabia,0,2,2,-0.55515
+Air India,AI573,0,1,1,-0.9117
+Air India,Kochi,1,12,13,-0.7041307692307692
+Air India,Hindi,4,3,7,0.04384285714285715
+Air India,IA,1,0,1,0.3415
+Air India,Amritsar,5,7,12,-0.24061666666666662
+Air India,Bengaluru,16,9,25,0.28408
+Air India,NYC,2,0,2,0.9716
+Air India,Feb,1,0,1,0.2521
+Air India,Milan,7,8,15,-0.10058666666666666
+Air India,Chodden,1,0,1,0.9363
+Air India,Anisha,1,0,1,0.9363
+Air India,Tel Aviv,2,1,3,0.375
+Air India,Doha,0,1,1,-0.5994
+Air India,Priti,1,0,1,0.9331
+Air India,Indore,1,1,2,0.08839999999999998
+Air India,us,1,0,1,0.9595
+Air India,Airline,1,3,4,-0.32115
+Air India,6AM,0,1,1,-0.8805
+Air India,AI0489 Delhi,0,1,1,-0.9899
+Air India,Srinagar,3,1,5,0.37051999999999996
+Air India,middle east,0,1,1,-0.8809
+Air India,Heathrow,2,5,7,-0.35664285714285715
+Air India,Varsha,1,0,1,0.9374
+Air India,Preeti,1,0,1,0.9374
+Air India,Makarand,1,0,1,0.9374
+Air India,Airseva,0,1,1,-0.9275
+Air India,Jammu,0,1,3,-0.31273333333333336
+Air India,the middle row,0,1,1,-0.9831
+Air India,Qatar,1,2,3,-0.26563333333333333
+Air India,Visakhapatnam,0,3,3,-0.4744
+Air India,Vadodara,2,4,6,-0.21180000000000002
+Air India,Himalayas,0,1,1,-0.9712
+Air India,Airport,0,1,1,-0.9029
+Air India,Pooja morning,1,0,1,0.9638
+Air India,Breakfast,1,2,3,-0.014333333333333318
+Air India,Lunch,0,1,1,-0.974
+Air India,Muscat,1,2,3,-0.05800000000000002
+Air India,9.15pm,0,1,1,-0.8979
+Air India,Kolhapur,0,1,1,-0.9666
+Air India,the moon,0,1,1,-0.9666
+Air India,Udaipur,0,2,2,-0.94485
+Air India,Tirupati,1,0,1,0.5058
+Air India,Del-Fra,0,1,1,-0.9451
+Air India,DEL-IAD,1,0,1,0.9374
+Air India,canada,1,0,1,0.3501
+Air India,Auckland,1,1,2,-0.18430000000000002
+Air India,Stockholm,0,2,2,-0.85145
+Air India,Ranchi,0,4,4,-0.8496
+Air India,New Zealand,0,1,1,-0.9301
+Air India,Diu,0,1,1,-0.7177
+Air India,Coronavirus,0,1,1,-0.799
+Air India,Illinois,0,1,1,-0.799
+Air India,Ahmadabad,0,0,1,0.0
+Air India,Chennai via Delhi,0,1,1,-0.8868
+Air India,Madrid,1,11,12,-0.49049166666666677
+Air India,Scandinavia,1,0,1,0.6183
+Air India,Thiruvananthapuran,0,1,1,-0.7096
+Air India,North America,2,0,2,0.9478
+Air India,Cochin via Delhi,1,3,4,-0.302025
+Air India,Dhaka,1,1,2,0.2402
+Air India,Bhubneshwar,0,1,1,-0.6287
+Air India,Calgary,0,2,2,-0.9262
+Air India,Trivendram,0,1,1,-0.9607
+Air India,the Middle East,2,0,2,0.95565
+Air India,Birmingham,8,25,33,-0.37646969696969684
+Air India,AI665,0,1,1,-0.6542
+Air India,Thane Maharashtra,0,1,1,-0.6542
+Air India,Varanasi,4,9,13,-0.2757538461538461
+Air India,FFM,1,0,1,0.9555
+Air India,Dehradun,0,2,2,-0.92165
+Air India,the Tel Aviv,1,0,1,0.7808
+Air India,Hong Kong,12,8,20,0.09930500000000002
+Air India,Denver,0,1,1,-0.9587
+Air India,Thai,0,1,1,-0.4813
+Air India,Copenhagen,0,1,1,-0.6223
+Air India,Asia,0,1,1,-0.6223
+Air India,Jaipur,1,5,6,-0.5067833333333334
+Air India,Najaf,0,4,4,-0.9647
+Air India,Shanghai,2,4,6,-0.052949999999999976
+Air India,idlis,1,0,1,0.9697
+Air India,Touchdown,2,1,3,0.42989999999999995
+Air India,Shirdi,0,1,1,-0.9597
+Air India,New Delhi AI101,0,1,1,-0.6588
+Air India,Gujarat,1,0,1,0.9803
+Air India,the west coast,1,0,1,0.9803
+Air India,Easter,0,1,1,-0.7574
+Air India,Pakistan,0,2,2,-0.7574
+Air India,han cancelado,0,2,2,-0.7574
+Air India,4AM,0,1,1,-0.9528
+Air India,AI,0,2,2,-0.9280999999999999
+Air India,New York JFK,1,3,4,-0.23609999999999998
+Air India,Thailand,0,4,4,-0.9056
+Air India,Venezuela,0,1,1,-0.9056
+Air India,Goa,1,2,3,-0.3086
+Air India,- Delhi,0,1,1,-0.9539
+Air India,Dammam,0,2,2,-0.9349
+Air India,the New Delhi Airport,1,0,1,0.9582
+Air India,Sri Lanka,1,1,2,-0.026500000000000024
+Air India,Istanbul,0,3,3,-0.9091333333333335
+Air India,Turkey,0,1,1,-0.8519
+Air India,Belfast,0,1,1,-0.9442
+Air India,Goa via Delhi,1,2,3,-0.35200000000000004
+Air India,Munich,4,0,4,0.1633
+Air India,D.C.,0,1,1,-0.7745
+Air India,Minneapolis,0,1,1,-0.9388
+Air India,Surat,1,0,1,0.9061
+Air India,Flew Delhi,0,1,1,-0.5563
+Air India,New Delhi - Singapore,0,1,1,-0.7691
+Air India,United,0,2,2,-0.5622
+Air India,Pune to Delhi,1,0,1,0.2838
+Air India,Singara,1,0,1,0.9005
+Air India,Pantnagar to Delhi,0,1,1,-0.7719
+Air India,Gulf,0,2,2,-0.5334
+Air India,Osaka,0,1,1,-0.9626
+Air India,Indian Rupees,0,1,1,-0.4153
+Air India,Rome,2,1,3,-0.05670000000000001
+Air India,Economy,2,0,2,0.97075
+Air India,Srinigar,1,0,1,0.3998
+Air India,Kashmir,2,0,2,0.3998
+Air India,Malaysia,1,0,1,0.5725
+Air India,Riyadh,1,3,4,-0.4327500000000001
+Air India,Virgin,0,1,1,-0.2153
+Air India,Guwahati,1,0,1,0.8779
+Air India,L.A.,1,0,1,0.0869
+Air India,Hollywood,12,1,13,0.7950153846153847
+Air India,Bhubaneswar,1,0,1,0.8625
+Air India,Bhopal,3,0,3,0.6397
+Air India,delhi,1,0,1,0.9764
+Air India,Bollywood,14,2,16,0.76515
+Air India,Moscow,2,0,2,0.8178
+Air India,Bodhgaya,4,0,4,0.9081
+Air India,Yangon,1,0,1,0.9081
+Air India,Burma,1,0,1,0.9081
+Air India,Tarmac,0,1,1,-0.9085
+Air India,Indian Union Cabinet,0,1,1,-0.9295
+Air India,Biz,2,0,2,0.88935
+Air India,Aizawl,0,1,1,-0.8398
+Air India,Dublin,1,0,1,0.9907
+Air India,Maharaja,1,0,1,0.9907
+Air India,AI314,1,0,1,0.8043
+Air India,bangkok,1,0,1,0.9267
+Air India,bombay,1,0,1,0.8988
+Air India,Calcutta via,0,1,1,-0.3269
+Air India,Everest,0,1,1,-0.9246
+Air India,Indigogo,0,1,1,-0.9246
+Air India,Delhi - Bagdogra,1,0,1,0.8867
+Air India,Allahabad,0,1,1,-0.9341
+Air India,Denmark,0,1,1,-0.3937
+Air India,Goa to Delhi,0,1,1,-0.6585
+Air India,DEL-TRV,0,1,1,-0.6908
+Air India,Nagpur,1,1,2,-0.04830000000000001
+Air India,Jodhpur,1,2,3,0.11386666666666667
+Air India,Myanmar,0,1,1,-0.784
+Air India,DEL-HYD,1,0,1,0.9687
+Air India,Smartium,1,0,1,0.9972
+Air India,Asiana,2,0,2,0.6041
+Air India,Menus,1,0,1,0.9972
+Air India,Ottawa,1,0,1,0.0659
+Air India,Zurich,1,0,1,0.0659
+Air India,ATQ,0,3,3,-0.6397666666666667
+Air India,A319s,1,0,1,0.9824
+Air India,Udaiper,0,1,1,-0.1997
+Air India,LH,1,0,1,0.9977
+Air India,Business,2,0,2,0.6087
+Air India,AI809,0,1,1,-0.8854
+Air India,Vishakhapatnam,0,1,1,-0.9085
+Air India,Oct'14,1,0,1,0.2263
+Air India,Maldives,0,1,1,-0.4714
+Air India,Kolkata-Delhi,1,0,1,0.8118
+Air India,London(LHR,1,0,1,0.9933
+Air India,Jeddah,3,0,3,0.9756
+Air India,TG,1,0,1,0.9906
+Air India,B777,1,0,1,0.908
+Air India,Bahrain,2,0,2,0.9873000000000001
+Air India,Delhi City,0,1,1,-0.6597
+Air India,Shillong,1,0,1,0.6908
+Air India,Mangalore,1,0,1,0.1045
+Air India,Atlanta,1,0,1,0.6939
+Air India,Delta,1,0,1,0.6939
+Air India,Pune to Hyderabad,1,0,1,0.7941
+Air India,Trivandrum,1,0,1,0.765
+Air India,Heathrow Delhi,1,0,1,0.765
+Air India,Delhi-Chicago,1,0,1,0.9392
+Air India,Changi,1,1,2,0.2013
+Air India,china,2,0,2,0.67625
+Air India,T3,1,0,1,0.9838
+Air India,Germany,1,0,1,0.7256
+Air India,Middle East,1,0,1,0.7256
+Air India,DEL-YYZ,1,0,1,0.5141
+Air India,Fanta,0,1,1,-0.8453
+Air India,Jet,1,0,1,0.786
+Indigo Airlines,Mumbai,92,44,136,0.2981492647058822
+Indigo Airlines,New Delhi,5,7,12,-0.18950833333333328
+Indigo Airlines,Istanbul,4,12,16,-0.5559
+Indigo Airlines,Chicago,0,3,3,-0.9918999999999999
+Indigo Airlines,Varanasi,1,2,3,0.04059999999999997
+Indigo Airlines,Delhi,88,42,130,0.2905092307692307
+Indigo Airlines,Kathmandu,1,5,6,-0.2606833333333333
+Indigo Airlines,Pune to Delhi,1,0,2,0.07655
+Indigo Airlines,India,50,16,66,0.47390151515151496
+Indigo Airlines,Singapore,10,11,21,-0.037538095238095225
+Indigo Airlines,China,0,1,1,-0.9129
+Indigo Airlines,Taiwan,0,1,1,-0.9129
+Indigo Airlines,Japan,0,1,1,-0.9129
+Indigo Airlines,UAE,0,2,2,-0.8969
+Indigo Airlines,Maldives,0,8,8,-0.8360875
+Indigo Airlines,Africa,0,1,1,-0.9129
+Indigo Airlines,Europe,1,1,2,-0.36750000000000005
+Indigo Airlines,Malaysia,0,1,1,-0.9129
+Indigo Airlines,Hong Kong,2,1,3,-0.11303333333333337
+Indigo Airlines,Bangalore,3,6,9,-0.14558888888888888
+Indigo Airlines,Vijayawada,0,1,1,-0.9129
+Indigo Airlines,Bali,0,1,1,-0.8017
+Indigo Airlines,T1 airport,0,1,1,-0.8017
+Indigo Airlines,Monopoly,0,1,1,-0.8316
+Indigo Airlines,Dammam,0,3,3,-0.8561
+Indigo Airlines,Bombay,6,4,10,0.11715
+Indigo Airlines,DEL,5,2,7,0.3207999999999999
+Indigo Airlines,Bangkok,9,7,16,0.06784374999999994
+Indigo Airlines,Thailand,2,1,3,0.1072
+Indigo Airlines,Lucknow,2,4,6,-0.20875
+Indigo Airlines,Ahmedabad,13,9,22,0.0944363636363637
+Indigo Airlines,U.K.,0,1,1,-0.9283
+Indigo Airlines,London,2,2,4,0.0040999999999999925
+Indigo Airlines,Bengaluru,9,11,20,-0.041770000000000015
+Indigo Airlines,london,0,1,1,-0.9283
+Indigo Airlines,Bagdogra,3,0,3,0.7294666666666667
+Indigo Airlines,Jammu,3,0,3,0.8703
+Indigo Airlines,Phuket,1,0,1,0.0258
+Indigo Airlines,Mosquito,1,0,1,0.0258
+Indigo Airlines,Qatar,2,2,4,-0.15240000000000004
+Indigo Airlines,Ahmadabad,1,0,1,0.3956
+Indigo Airlines,Abu Dhabi,1,1,2,0.01924999999999999
+Indigo Airlines,Ahmedabad Mumbai,1,0,1,0.9426
+Indigo Airlines,Dubai,13,9,22,0.17479545454545453
+Indigo Airlines,Domestic,1,0,1,0.9426
+Indigo Airlines,Aircraft,1,1,2,0.06445000000000001
+Indigo Airlines,Riyadh,3,1,4,-0.15035
+Indigo Airlines,Sabiya,1,0,1,0.7906
+Indigo Airlines,Indigos,1,0,1,0.9895
+Indigo Airlines,Madrid,0,1,1,-0.9267
+Indigo Airlines,Istanbul -Mumbai - Istanbul,0,1,1,-0.9267
+Indigo Airlines,Sharjah,2,0,2,0.8041
+Indigo Airlines,Hyderabad,22,11,33,0.29511818181818184
+Indigo Airlines,Pune,9,2,11,0.5541181818181818
+Indigo Airlines,Vadodara,6,0,6,0.7035166666666667
+Indigo Airlines,US,9,2,11,0.5260727272727274
+Indigo Airlines,the Middle East,0,1,1,-0.4933
+Indigo Airlines,Middle Eastern,0,1,1,-0.4933
+Indigo Airlines,Kerala,0,2,2,-0.4933
+Indigo Airlines,Hindi,1,2,3,-0.013866666666666694
+Indigo Airlines,Vistara,2,1,3,0.33176666666666665
+Indigo Airlines,Kochi,5,4,9,-0.009355555555555561
+Indigo Airlines,USA,3,0,3,0.6856
+Indigo Airlines,Tirupati,2,1,3,0.238
+Indigo Airlines,Doha,7,4,11,0.31046363636363633
+Indigo Airlines,Kolkata,21,9,30,0.32616333333333336
+Indigo Airlines,Vancouver,0,1,1,-0.7857
+Indigo Airlines,Airline,0,2,2,-0.8289500000000001
+Indigo Airlines,Origin,1,0,1,0.7538
+Indigo Airlines,Boarding,1,0,1,0.7538
+Indigo Airlines,the Airport 4 hours,1,0,1,0.7538
+Indigo Airlines,America,0,1,1,-0.1292
+Indigo Airlines,Amritsar,2,1,3,0.3168666666666667
+Indigo Airlines,Banglore,0,2,2,-0.6808
+Indigo Airlines,Ranchi,4,1,5,0.3358
+Indigo Airlines,Upma,1,0,1,0.7352
+Indigo Airlines,Lucknow India,0,1,1,-0.8809
+Indigo Airlines,Wheelchair,1,0,1,0.926
+Indigo Airlines,Nepal,0,2,2,-0.8138000000000001
+Indigo Airlines,Bahrain,0,3,3,-0.9657
+Indigo Airlines,Gorakhpur,1,0,1,0.9684
+Indigo Airlines,Karnataka,1,0,1,0.8401
+Indigo Airlines,Asia,2,0,2,0.8768499999999999
+Indigo Airlines,Seychelles,0,2,2,-0.9194
+Indigo Airlines,Safety Kit,1,0,1,0.997
+Indigo Airlines,Oman,0,1,1,-0.4774
+Indigo Airlines,Tuticorin,0,1,1,-0.6055
+Indigo Airlines,Visakhapatnam,5,0,5,0.63312
+Indigo Airlines,Agartala,1,0,1,0.6855
+Indigo Airlines,Kannur,1,1,2,-0.03654999999999997
+Indigo Airlines,Mangalore,2,1,3,0.22263333333333338
+Indigo Airlines,Kozhikide,1,0,1,0.92
+Indigo Airlines,Jaipur,3,6,9,-0.06859999999999998
+Indigo Airlines,Nagpur,0,2,2,-0.79095
+Indigo Airlines,the Walking Stick,1,0,1,0.9558
+Indigo Airlines,Dehradun,1,1,2,0.3516
+Indigo Airlines,Pune via Bangalore,1,0,1,0.9476
+Indigo Airlines,Patna,1,0,1,0.9744
+Indigo Airlines,Kuwait,1,0,1,0.7089
+Indigo Airlines,COK,1,0,1,0.1901
+Indigo Airlines,Vadadora,1,0,1,0.7177
+Indigo Airlines,PA,0,1,1,-0.9388
+Indigo Airlines,Kuala Lumpur,1,0,1,0.9589
+Indigo Airlines,Sayed,0,1,1,-0.1545
+Indigo Airlines,Hubli,0,1,1,-0.1545
+Indigo Airlines,Vizag,1,0,1,0.2831
+Indigo Airlines,Blackout,1,0,1,0.9528
+Indigo Airlines,Dr,2,0,2,0.9528
+Indigo Airlines,San Francisco,1,0,1,0.3697
+Indigo Airlines,Via,1,0,1,0.3697
+Indigo Airlines,Shanghai,1,0,1,0.3697
+Indigo Airlines,Ahemdabad,1,0,1,0.3697
+Indigo Airlines,Pune via Delhi,1,1,2,0.37039999999999995
+Indigo Airlines,Ganga,1,0,1,0.8641
+Indigo Airlines,Raipur,1,0,1,0.5994
+Indigo Airlines,Jakarta,0,1,1,-0.8591
+Indigo Airlines,Sandwich,0,1,1,-0.6514
+Indigo Airlines,Trivandrum,2,1,3,0.34783333333333327
+Indigo Airlines,Vishakapatnam,1,0,1,0.6111
+Indigo Airlines,Muscat,0,1,1,-0.9455
+Indigo Airlines,Port Blair,1,0,1,0.982
+Indigo Airlines,Srinagar,1,0,1,0.9411
+Indigo Airlines,Cochin to Delhi,0,1,1,-0.3601
+Indigo Airlines,Udaipur,0,1,1,-0.8993
+Indigo Airlines,Flew Delhi,1,0,1,0.8964
+Indigo Airlines,Pune airport,1,0,1,0.7958
+Indigo Airlines,Boxes,1,0,1,0.7958
+Indigo Airlines,Southeast Asia,1,0,1,0.9159
+Indigo Airlines,Kolkota,1,0,1,0.5714
+Indigo Airlines,Goa - Delhi,1,0,1,0.2023
+Indigo Airlines,Pune to Nagpur,1,0,1,0.9118
+Indigo Airlines,3.25pm,0,1,1,-0.7275
+Indigo Airlines,Cochi,1,0,1,0.902
+Indigo Airlines,Masala,1,0,1,0.4501
+Indigo Airlines,Air Asia,1,0,1,0.8555
+Indigo Airlines,USD,1,0,1,0.9136
+Indigo Airlines,Jet,1,0,1,0.513
+Indigo Airlines,Pune-Nagpur,1,0,1,0.9485
+Indigo Airlines,Goa to Delhi,2,0,2,0.891
+Indigo Airlines,DEL-BOM,1,0,1,0.946
+Qatar Airways,Doha,1890,594,2491,0.5050603773584921
+Qatar Airways,Qatar,645,232,877,0.46799258836944163
+Qatar Airways,Middle East,3,2,5,0.20664
+Qatar Airways,Munich,33,8,41,0.5189097560975608
+Qatar Airways,Kuala Lumpur,58,10,68,0.6664955882352942
+Qatar Airways,Barcelona,18,18,36,0.15054722222222222
+Qatar Airways,Manila,42,8,50,0.6250700000000001
+Qatar Airways,Guangzhou,1,1,2,-0.009649999999999992
+Qatar Airways,Athens,28,15,43,0.3370209302325582
+Qatar Airways,Tokyo,15,8,23,0.43922608695652166
+Qatar Airways,Madrid,31,10,41,0.5495512195121952
+Qatar Airways,South Africa,10,3,13,0.5919999999999999
+Qatar Airways,Johannesburg,36,19,55,0.25559636363636373
+Qatar Airways,Phuket,17,9,27,0.336588888888889
+Qatar Airways,Penang,9,4,13,0.48196153846153844
+Qatar Airways,Maldives,6,1,7,0.6041
+Qatar Airways,Nairobi,20,15,35,0.13098285714285715
+Qatar Airways,Kathmandu,18,12,30,0.26248666666666665
+Qatar Airways,Delhi,14,8,22,0.37210000000000004
+Qatar Airways,QR701,0,1,1,-0.8847
+Qatar Airways,Nepal,3,1,4,0.3532
+Qatar Airways,New Delhi,1,1,2,0.08374999999999999
+Qatar Airways,Chicago,19,19,40,0.03581500000000001
+Qatar Airways,London,182,56,238,0.5314441176470589
+Qatar Airways,Emirates,73,14,87,0.7236471264367813
+Qatar Airways,Dubai,56,15,71,0.5601239436619716
+Qatar Airways,Dublin,19,2,21,0.6902142857142857
+Qatar Airways,Hanoi,17,6,23,0.5163000000000002
+Qatar Airways,Anastasia,2,0,2,0.9955
+Qatar Airways,Aircraft,2,0,2,0.9884
+Qatar Airways,Economy,10,0,10,0.62784
+Qatar Airways,Zurich,19,7,26,0.3751961538461538
+Qatar Airways,Oman,2,4,6,-0.08766666666666668
+Qatar Airways,Salalah,0,2,2,-0.768
+Qatar Airways,Rome,21,5,26,0.6630615384615385
+Qatar Airways,Turkey,2,2,4,-0.18987500000000002
+Qatar Airways,Perth,45,23,68,0.33407647058823536
+Qatar Airways,Singapore,84,46,131,0.3101106870229007
+Qatar Airways,US,18,9,27,0.35126296296296267
+Qatar Airways,Riyadh,8,3,11,0.4075090909090909
+Qatar Airways,San Francisco,1,2,3,-0.2119
+Qatar Airways,the United States,0,1,1,-0.9748
+Qatar Airways,Indonesia,1,1,2,0.13680000000000003
+Qatar Airways,Bangkok,226,37,263,0.6743908745247144
+Qatar Airways,Manchester,60,11,71,0.6205056338028169
+Qatar Airways,Addis Ababa,0,1,1,-0.9864
+Qatar Airways,Addis-Ababa,0,1,1,-0.9864
+Qatar Airways,KQ,1,1,2,-0.22190000000000004
+Qatar Airways,Airline,2,1,3,0.2959333333333333
+Qatar Airways,QR149,0,1,1,-0.8376
+Qatar Airways,Ahmedabad,4,1,7,0.42947142857142856
+Qatar Airways,Africa,5,1,6,0.58235
+Qatar Airways,aerolínea,0,2,2,-0.9523
+Qatar Airways,El hombre,0,1,1,-0.9523
+Qatar Airways,del tremendo,0,1,1,-0.9523
+Qatar Airways,Beijing,2,0,2,0.50615
+Qatar Airways,Washington DC,4,2,6,0.40778333333333333
+Qatar Airways,Houston,13,6,19,0.45187368421052637
+Qatar Airways,Islamabad,18,2,20,0.65466
+Qatar Airways,Newcastle,1,0,1,0.8759
+Qatar Airways,UK,24,6,30,0.5595899999999998
+Qatar Airways,Brussels,17,22,39,-0.106651282051282
+Qatar Airways,Vietnam,2,4,6,-0.13125
+Qatar Airways,Thailand,10,2,12,0.5125166666666666
+Qatar Airways,QR763,1,0,1,0.7072
+Qatar Airways,Montreal,15,20,35,-0.054988571428571435
+Qatar Airways,Warsaw,14,13,27,0.08477407407407407
+Qatar Airways,Edinburgh,48,8,56,0.6791696428571427
+Qatar Airways,Philippines,3,0,3,0.8992333333333332
+Qatar Airways,Cebu,4,0,4,0.814725
+Qatar Airways,Miami,14,0,14,0.749307142857143
+Qatar Airways,Grand Cayman,1,0,1,0.8487
+Qatar Airways,Jakarta,24,8,32,0.3986375
+Qatar Airways,Bucharest,3,0,3,0.7365
+Qatar Airways,Auckland,13,4,17,0.5225705882352942
+Qatar Airways,Beirut,11,2,13,0.6373384615384616
+Qatar Airways,Myanmar,1,0,1,0.9594
+Qatar Airways,Australia,36,5,41,0.7402365853658536
+Qatar Airways,Australasia,2,0,2,0.7753
+Qatar Airways,Japan,4,1,5,0.56992
+Qatar Airways,Saudi Arabia,0,1,1,-0.9562
+Qatar Airways,Vancouver,4,0,4,0.512
+Qatar Airways,Tehran,7,7,14,0.09796428571428571
+Qatar Airways,Seattle,4,6,10,-0.15322
+Qatar Airways,Melbourne,76,12,88,0.6821749999999999
+Qatar Airways,Hong Kong,32,13,45,0.39011111111111113
+Qatar Airways,Istanbul,29,10,39,0.41790000000000005
+Qatar Airways,Larnaca,3,2,5,0.15538
+Qatar Airways,Sri Lanka,1,2,3,-0.39303333333333335
+Qatar Airways,Sydney,65,33,98,0.34416938775510203
+Qatar Airways,Frankfurt,49,11,60,0.5629616666666666
+Qatar Airways,Saigon,5,1,6,0.6635666666666666
+Qatar Airways,Goa Dabolim,1,0,1,0.7845
+Qatar Airways,Mumbai,21,3,24,0.6951166666666667
+Qatar Airways,Helsinki,9,3,12,0.429325
+Qatar Airways,Philadelphia,16,2,18,0.7479444444444444
+Qatar Airways,Natalia,2,0,2,0.9936
+Qatar Airways,Silver,1,0,1,0.9936
+Qatar Airways,Malaysia,6,3,9,0.34921111111111114
+Qatar Airways,B789,2,0,2,0.5660000000000001
+Qatar Airways,Europe,25,6,31,0.5230322580645163
+Qatar Airways,Amman,14,12,26,0.06853461538461539
+Qatar Airways,Exit Row,0,2,2,-0.9952
+Qatar Airways,realy,1,0,1,0.9915
+Qatar Airways,Nice,11,0,11,0.9459000000000001
+Qatar Airways,Birmingham,15,8,23,0.28971304347826093
+Qatar Airways,Detroit,0,0,3,0.0
+Qatar Airways,Georgia,0,1,1,-0.9083
+Qatar Airways,India,16,3,19,0.5667789473684209
+Qatar Airways,Ho Chi Minh,4,1,5,0.44171999999999995
+Qatar Airways,Asia,8,1,9,0.6305666666666667
+Qatar Airways,Joburg,1,2,3,-0.24276666666666666
+Qatar Airways,Chongqing,2,1,3,0.3694333333333333
+Qatar Airways,Washington,9,4,13,0.3570230769230769
+Qatar Airways,Angola,0,2,2,-0.9616
+Qatar Airways,Carina,2,0,2,0.9916
+Qatar Airways,Portugal,1,0,1,0.9916
+Qatar Airways,Diamond,1,0,1,0.9916
+Qatar Airways,Sao Paulo,5,0,5,0.6712
+Qatar Airways,the Qatar A380s,1,0,1,0.4932
+Qatar Airways,Geneva,12,2,14,0.6801857142857143
+Qatar Airways,Swissport,0,2,2,-0.6287
+Qatar Airways,Kathmanda,1,0,1,0.9186
+Qatar Airways,Muscat,24,2,26,0.7858807692307692
+Qatar Airways,Qsuite,1,2,3,-0.09303333333333334
+Qatar Airways,Vienna,18,5,23,0.5481999999999999
+Qatar Airways,Milan,23,7,30,0.5527099999999999
+Qatar Airways,Qsuites,0,1,1,-0.7346
+Qatar Airways,Kochi,5,2,7,0.46938571428571424
+Qatar Airways,Colombo,7,2,9,0.597288888888889
+Qatar Airways,4AM,1,0,1,0.8562
+Qatar Airways,Italy,1,1,2,0.08230000000000004
+Qatar Airways,UAE,1,0,1,0.9917
+Qatar Airways,Chile,2,0,2,0.9634
+Qatar Airways,France,4,0,4,0.70595
+Qatar Airways,Rome - Denpasar,0,1,1,-0.7003
+Qatar Airways,Sicily,0,1,1,-0.9263
+Qatar Airways,Nigeria,2,0,2,0.9503
+Qatar Airways,Hanna,1,0,1,0.9888
+Qatar Airways,New York,18,5,23,0.5308521739130434
+Qatar Airways,Bollywood,1,0,1,0.872
+Qatar Airways,Abu Dhabi,4,2,6,0.27385
+Qatar Airways,Boston,8,4,12,0.3633583333333333
+Qatar Airways,Dhaka,13,2,15,0.6625600000000001
+Qatar Airways,USA,11,3,14,0.6109571428571429
+Qatar Airways,Kigali,8,1,9,0.7533444444444446
+Qatar Airways,Corona,6,0,6,0.95465
+Qatar Airways,the Auckland to Doha,2,0,2,0.9919
+Qatar Airways,Canberra,4,3,7,0.2956714285714286
+Qatar Airways,Prague,2,2,4,0.22192499999999998
+Qatar Airways,Aarti,1,0,1,0.3704
+Qatar Airways,Berlin,13,3,16,0.5670249999999999
+Qatar Airways,Delta,0,1,1,-0.7851
+Qatar Airways,24/04/2023,1,0,1,0.9562
+Qatar Airways,Atlanta,22,5,27,0.5708703703703704
+Qatar Airways,Bangladesh,3,0,3,0.8751666666666665
+Qatar Airways,Rania,3,0,3,0.9841000000000001
+Qatar Airways,Nagoya,1,0,1,0.9684
+Qatar Airways,B777,7,1,8,0.8462124999999999
+Qatar Airways,Asie,1,0,1,0.9595
+Qatar Airways,satisfait,1,0,1,0.9595
+Qatar Airways,Sapphire,3,0,3,0.9457333333333334
+Qatar Airways,Hussain,2,0,2,0.9612
+Qatar Airways,la,1,0,1,0.9801
+Qatar Airways,qatar,2,0,2,0.9164
+Qatar Airways,Zagreb,6,0,6,0.85875
+Qatar Airways,Pearl,3,0,3,0.9932
+Qatar Airways,Rare,1,0,1,0.9946
+Qatar Airways,LGW,1,0,1,0.5256
+Qatar Airways,DC,1,0,1,0.34
+Qatar Airways,Denpasar,2,1,3,-0.06893333333333333
+Qatar Airways,Denpasar hours later,1,0,1,0.34
+Qatar Airways,seati,1,0,1,0.2263
+Qatar Airways,Marriott,1,0,1,0.8146
+Qatar Airways,Lebanon,1,0,1,0.9867
+Qatar Airways,Victoria,1,0,1,0.9821
+Qatar Airways,Sabiha Gokcen,1,0,1,0.9311
+Qatar Airways,SE-Asia,1,0,1,0.9866
+Qatar Airways,Oslo,17,6,23,0.5211391304347827
+Qatar Airways,Toronto,5,6,11,0.011490909090909078
+Qatar Airways,the west coast,1,0,1,0.9778
+Qatar Airways,LA,8,0,8,0.8814625
+Qatar Airways,Boarding,0,1,1,-0.4912
+Qatar Airways,Budapest,7,0,7,0.8866428571428573
+Qatar Airways,Iberia,6,0,6,0.89975
+Qatar Airways,Reno,1,0,1,0.3595
+Qatar Airways,Gatwick,8,1,9,0.7071222222222222
+Qatar Airways,China,1,2,3,-0.1874
+Qatar Airways,South Korea,1,0,1,0.8079
+Qatar Airways,Kilimanjaro,2,1,3,0.4444666666666666
+Qatar Airways,the Al Maha,1,0,1,0.9687
+Qatar Airways,Qcuisine,1,0,1,0.972
+Qatar Airways,Pakistan,5,2,7,0.4174142857142858
+Qatar Airways,San Diego,1,0,1,0.9524
+Qatar Airways,Dallas,18,3,21,0.7045047619047617
+Qatar Airways,Cairo,11,3,14,0.5250642857142858
+Qatar Airways,Uganda,0,2,2,-0.778
+Qatar Airways,Paris,37,15,52,0.39280576923076926
+Qatar Airways,Brisbane,4,3,7,0.16992857142857143
+Qatar Airways,Amsterdam,28,10,38,0.5243894736842104
+Qatar Airways,IKA,0,1,1,-0.9067
+Qatar Airways,Breakfast,0,1,1,-0.8402
+Qatar Airways,Poland,1,0,1,0.5984
+Qatar Airways,Brussel,1,0,1,0.5423
+Qatar Airways,Karanveer,1,0,1,0.9771
+Qatar Airways,Sharan,1,0,1,0.9819
+Qatar Airways,australia,1,0,1,0.8448
+Qatar Airways,Flying,3,0,3,0.6352666666666666
+Qatar Airways,QR932,1,0,1,0.3134
+Qatar Airways,Premium,0,1,1,-0.8489
+Qatar Airways,Expedia,0,2,2,-0.1668
+Qatar Airways,Egypt,1,1,2,-0.13389999999999996
+Qatar Airways,Nisha,1,0,1,0.3591
+Qatar Airways,Kolkata,5,5,10,0.12387000000000001
+Qatar Airways,Dulles,3,0,3,0.9308666666666666
+Qatar Airways,Canada,3,0,3,0.9244
+Qatar Airways,Papua New Guinea,1,0,1,0.9984
+Qatar Airways,Zanzibar,0,2,2,-0.8796999999999999
+Qatar Airways,Sofia,7,0,7,0.9437999999999999
+Qatar Airways,Jetiya,1,0,1,0.9819
+Qatar Airways,Medina,4,0,4,0.988825
+Qatar Airways,Adelaide,6,0,6,0.9881833333333335
+Qatar Airways,Covid,2,1,3,0.22923333333333337
+Qatar Airways,Baku,9,3,12,0.445425
+Qatar Airways,Casablanca,6,2,8,0.4007875
+Qatar Airways,Moscow,5,1,6,0.3973333333333333
+Qatar Airways,Isle,0,1,1,-0.5278
+Qatar Airways,Hyderabad,6,6,12,0.0735583333333333
+Qatar Airways,Lagos,6,2,8,0.47024999999999995
+Qatar Airways,Kyiv,1,0,1,0.9824
+Qatar Airways,Rwanda,1,0,1,0.9904
+Qatar Airways,Germany,4,1,5,0.55992
+Qatar Airways,CC,1,0,1,0.8537
+Qatar Airways,us,1,2,3,-0.3006333333333333
+Qatar Airways,Maryam,1,0,1,0.9467
+Qatar Airways,Fri,1,0,1,0.9467
+Qatar Airways,Emirates Flights,1,0,1,0.669
+Qatar Airways,Kerala,1,0,1,0.669
+Qatar Airways,Iceland,2,0,2,0.6082000000000001
+Qatar Airways,Denmark,4,0,4,0.25
+Qatar Airways,Najaf,2,3,5,-0.11565999999999996
+Qatar Airways,Basra,2,0,2,0.7221500000000001
+Qatar Airways,Thankyou,1,0,1,0.9117
+Qatar Airways,Kenya,1,0,1,0.9874
+Qatar Airways,Panama,1,0,1,0.7438
+Qatar Airways,Spain,1,0,1,0.7438
+Qatar Airways,Los Angeles,15,0,15,0.7886599999999999
+Qatar Airways,New York JFK,11,2,13,0.6890000000000001
+Qatar Airways,Karachi,9,1,10,0.64988
+Qatar Airways,Stockholm,28,9,37,0.5294999999999999
+Qatar Airways,Business,1,2,3,0.01266666666666666
+Qatar Airways,Bulgaria,1,0,1,0.9765
+Qatar Airways,Cape Town,12,6,18,0.34217777777777786
+Qatar Airways,Mogadishu,1,0,1,0.9001
+Qatar Airways,Jomo Kenyatta,1,0,1,0.9833
+Qatar Airways,Tunisia,1,0,1,0.9981
+Qatar Airways,QR726,1,0,1,0.9819
+Qatar Airways,Coronavirus,3,0,3,0.8828666666666667
+Qatar Airways,Tallin,0,1,1,-0.4939
+Qatar Airways,Kuwait,16,8,24,0.4322999999999999
+Qatar Airways,Ft Worth,4,0,4,0.9391749999999999
+Qatar Airways,Covid_19,1,0,1,0.7787
+Qatar Airways,Jordan,1,1,2,0.011499999999999955
+Qatar Airways,Khalil,1,0,1,0.948
+Qatar Airways,japan,1,0,1,0.9732
+Qatar Airways,Greece,1,0,1,0.7845
+Qatar Airways,QR0928,1,0,1,0.9919
+Qatar Airways,Dunia,1,0,1,0.9919
+Qatar Airways,Bangalore,2,0,2,0.8875
+Qatar Airways,KL,1,1,2,0.08515
+Qatar Airways,U.S.,1,0,1,0.9286
+Qatar Airways,Auckland via Doha,0,2,2,-0.4714
+Qatar Airways,Cyprus,1,0,1,0.9921
+Qatar Airways,Check,1,0,1,0.9921
+Qatar Airways,Yangon,2,1,3,0.44316666666666665
+Qatar Airways,Auckland to Helsinki,1,0,1,0.9446
+Qatar Airways,Lacto,1,0,1,0.9692
+Qatar Airways,QR015,1,0,1,0.9941
+Qatar Airways,Cochi,1,0,1,0.9574
+Qatar Airways,Cava,0,1,1,-0.8873
+Qatar Airways,Danang,0,1,1,-0.8873
+Qatar Airways,Qantas,2,0,2,0.9514
+Qatar Airways,Inoula,1,0,1,0.9117
+Qatar Airways,Catalina,1,0,1,0.9117
+Qatar Airways,Bali,9,3,12,0.5026583333333333
+Qatar Airways,Lahore,7,0,7,0.8376857142857143
+Qatar Airways,Auckland to St Petersburg,1,0,1,0.5047
+Qatar Airways,Nashville,1,0,1,0.8669
+Qatar Airways,Welcomed,1,0,1,0.9966
+Qatar Airways,Cochin,1,0,1,0.9966
+Qatar Airways,Bombay,3,1,4,0.253825
+Qatar Airways,Shanghai,17,1,18,0.8144166666666666
+Qatar Airways,Heathrow,2,0,2,0.8342
+Qatar Airways,Antalya,0,5,5,-0.92128
+Qatar Airways,Phnom Penh,5,1,6,0.6480666666666667
+Qatar Airways,Venice,14,3,17,0.629035294117647
+Qatar Airways,Central,1,0,1,0.9161
+Qatar Airways,n’t,3,0,3,0.7040000000000001
+Qatar Airways,Gothenburg,2,1,3,0.39683333333333337
+Qatar Airways,QR832,1,0,1,0.7233
+Qatar Airways,Londikile,1,0,1,0.9878
+Qatar Airways,the Middle East,6,0,6,0.9763333333333334
+Qatar Airways,Lisbon,4,0,4,0.980425
+Qatar Airways,South Asia,2,0,2,0.97955
+Qatar Airways,Hollywood,3,1,4,0.32732500000000003
+Qatar Airways,Multan,0,2,2,-0.7617
+Qatar Airways,Tbilisi,3,0,3,0.6503666666666666
+Qatar Airways,Dar es Salaam,1,0,1,0.9834
+Qatar Airways,Kiev,2,1,3,0.5440333333333333
+Qatar Airways,Seoul,5,0,5,0.8914
+Qatar Airways,Sri Lankan,1,0,1,0.9965
+Qatar Airways,Ghana,1,0,1,0.9985
+Qatar Airways,U.K.,1,0,1,0.9985
+Qatar Airways,doha,2,0,2,0.9953000000000001
+Qatar Airways,Calicut,1,0,1,0.9343
+Qatar Airways,St. Petersburg,1,0,1,0.1899
+Qatar Airways,Ankara,0,3,3,-0.6537333333333334
+Qatar Airways,Suvarnabhumi,1,0,1,0.9877
+Qatar Airways,Calgary,0,1,1,-0.6486
+Qatar Airways,Scotland,0,1,1,-0.9312
+Qatar Airways,Goa,2,0,2,0.93445
+Qatar Airways,Switzerland,1,0,1,0.8768
+Qatar Airways,B773,2,0,2,0.85555
+Qatar Airways,Oman Air,1,0,1,0.9824
+Qatar Airways,Hamburg,0,3,3,-0.7408
+Qatar Airways,Belgrade,5,1,6,0.7080833333333335
+Qatar Airways,Balkans,1,0,1,0.9653
+Qatar Airways,DL,1,0,1,0.9964
+Qatar Airways,UA,1,0,1,0.9964
+Qatar Airways,Auckland to Johannesburg,1,0,1,0.7922
+Qatar Airways,Amritsar,2,0,2,0.9681500000000001
+Qatar Airways,Shokoufeh,1,0,1,0.9759
+Qatar Airways,Rio de Janeiro,1,0,1,0.9607
+Qatar Airways,Middle Eastern,1,0,1,0.7579
+Qatar Airways,HK,2,0,2,0.7558499999999999
+Qatar Airways,Hamad Int'l Airport,1,0,1,0.9902
+Qatar Airways,Hamad Int'l,1,0,1,0.9902
+Qatar Airways,USB,1,0,1,0.046
+Qatar Airways,Bruna,1,0,1,0.9847
+Qatar Airways,Dar Es Salaam,1,3,4,-0.4871
+Qatar Airways,Sarajevo,1,0,1,0.3612
+Qatar Airways,Katmandu,1,0,1,0.2985
+Qatar Airways,Trivandrum,2,0,2,0.68835
+Qatar Airways,Emerites,1,0,1,0.9626
+Qatar Airways,middle-east,1,0,1,0.9979
+Qatar Airways,East,1,0,1,0.9887
+Qatar Airways,Clark,2,0,2,0.9244
+Qatar Airways,Doha-Helsinki,1,0,1,0.6825
+Qatar Airways,Ho Chi Minh City,13,2,15,0.6545066666666668
+Qatar Airways,Central Africa,1,0,1,0.9911
+Qatar Airways,Morocco,0,1,1,-0.9816
+Qatar Airways,Virgin,1,0,1,0.9373
+Qatar Airways,Cardiff Airport,1,0,1,0.9876
+Qatar Airways,Confort,1,0,1,0.6652
+Qatar Airways,Seychelles,1,0,1,0.9633
+Qatar Airways,Quezon City,0,1,1,-0.2795
+Qatar Airways,USD,1,0,1,0.9642
+Qatar Airways,Auckland to Cape Town,1,0,1,0.9389
+Qatar Airways,Duty,1,0,1,0.5499
+Qatar Airways,the Arabic Breakfast,1,0,1,0.9786
+Qatar Airways,Skytrax,1,0,1,0.9574
+Qatar Airways,Bhutan,0,1,1,-0.6262
+Qatar Airways,Ireland,1,0,1,0.9342
+Qatar Airways,Melboure,1,0,1,0.9337
+Qatar Airways,Saudia Arabia,0,1,1,-0.4795
+Qatar Airways,Canton,0,1,1,-0.7649
+Qatar Airways,Ohio,0,1,1,-0.7649
+Qatar Airways,Cleveland,1,2,3,-0.18986666666666666
+Qatar Airways,BA,0,1,1,-0.7649
+Qatar Airways,Marrakech,0,1,1,-0.2609
+Qatar Airways,Ft Lauderdale,1,0,1,0.5848
+Qatar Airways,East Africa,1,0,1,0.5426
+Qatar Airways,Saudi-Arabia,1,0,1,0.5426
+Qatar Airways,Rimowa,1,0,1,0.7771
+Qatar Airways,Marrakesh,2,0,2,0.8597
+Qatar Airways,772LR,1,0,1,0.9461
+Qatar Airways,Israel,0,1,1,-0.925
+Qatar Airways,Auckland to Doha,1,0,1,0.8439
+Qatar Airways,DFW,1,0,1,0.9735
+Qatar Airways,Gulf,2,0,2,0.9693
+Qatar Airways,Skyteam,1,0,1,0.9946
+Qatar Airways,USD250,1,0,1,0.8812
+Qatar Airways,New York Sector,0,1,1,-0.079
+Qatar Airways,Philly,1,0,1,0.8549
+Qatar Airways,JoBurg,1,0,1,0.8549
+Qatar Airways,Oneworld,1,0,1,0.9758
+Qatar Airways,New Zealand,1,1,2,-0.23535
+Qatar Airways,Auckland to Athens,0,1,1,-0.2542
+Qatar Airways,Fort Worth,1,0,1,0.9964
+Qatar Airways,Mecca,1,0,1,0.9506
+Qatar Airways,Qoran,1,0,1,0.9506
+Qatar Airways,Southeast Asia,2,0,2,0.9907999999999999
+Qatar Airways,East Asia,1,0,1,0.9852
+Qatar Airways,Oryx,1,0,1,0.9912
+Qatar Airways,china,1,0,1,0.9732
+Qatar Airways,England,2,0,2,0.9459
+Qatar Airways,Menus,1,0,1,0.9984
+Qatar Airways,Tblisi,1,0,1,0.9607
+Qatar Airways,Virgin Australia,1,0,1,0.9493
+Qatar Airways,Khartoum,3,0,3,0.7971
+Qatar Airways,Virgin Atlantic,1,0,1,0.9974
+Qatar Airways,Bidvest,1,0,1,0.9974
+Qatar Airways,Dammam,2,0,2,0.93205
+Qatar Airways,Qatar Aiways,1,0,1,0.9918
+Qatar Airways,Pnom Penh,1,0,1,0.8993
+Qatar Airways,Trinoma,1,0,1,0.9607
+Qatar Airways,Washington Dulles,2,0,2,0.97805
+Qatar Airways,Sharjah,1,0,1,0.9559
+Qatar Airways,Inflight,1,0,1,0.9456
+Qatar Airways,Belgium,0,1,1,-0.8625
+Qatar Airways,Plaza Premium,1,0,1,0.9785
+Qatar Airways,Taipei,1,0,1,0.9926
+Qatar Airways,Alexandria,1,0,1,0.9853
+Qatar Airways,Krabi,0,1,1,-0.7684
+Qatar Airways,Babich Sauvignon,1,0,1,0.9774
+Qatar Airways,Marlborough,1,0,1,0.9774
+Qatar Airways,Madina,1,0,1,0.9951
+Qatar Airways,Taif,4,0,4,0.9923250000000001
+Qatar Airways,Scandinavian Airport,1,0,1,0.9696
+Qatar Airways,Biz,1,0,1,0.6907
+Qatar Airways,Jo'burg,2,0,2,0.9385
+Qatar Airways,Etihad,1,0,1,0.9922
+Qatar Airways,QR162/163,1,0,1,0.9665
+Qatar Airways,QR947/942,1,0,1,0.9665
+Qatar Airways,Qatar Airway's,1,0,1,0.765
+Qatar Airways,Kuala Lumpur - Doha - Berlin,1,0,1,0.9655
+Qatar Airways,middle east,1,0,1,0.9893
+Qatar Airways,LHR,1,1,2,0.049449999999999994
+Qatar Airways,NY,1,0,1,0.9945
+Qatar Airways,Bahrain,1,0,1,0.5927
+Qatar Airways,Gulf Air,1,0,1,0.5927
+Qatar Airways,S. Africa,0,1,1,-0.4389
+Qatar Airways,Ho,1,0,1,0.8716
+Qatar Airways,Minh City,1,0,1,0.8716
+Qatar Airways,Seating,1,0,1,0.9632
+Qatar Airways,Sweden,0,1,1,-0.2746
+Qatar Airways,QR728,0,1,1,-0.9534
+Qatar Airways,Korea,1,0,1,0.8516
+Qatar Airways,Saffron,1,0,1,0.9525
+Qatar Airways,Orlando,1,0,1,0.8604
+Qatar Airways,USD560,0,1,1,-0.1388
+Qatar Airways,europe,0,1,1,-0.1388
+Qatar Airways,Azerbaijan,1,0,1,0.9113
+Qatar Airways,East Asain,1,0,1,0.6943
+Qatar Airways,Male,1,0,1,0.9945
+Qatar Airways,HND,1,1,2,0.48950000000000005
+Qatar Airways,C13,0,1,1,-0.0394
+Qatar Airways,Belfast,1,0,1,0.9247
+Qatar Airways,Northern Ireland,1,0,1,0.9247
+Qatar Airways,Schiphol,1,0,1,0.9915
+United Airlines,U.S.,2,1,3,0.33553333333333324
+United Airlines,Denver,161,156,320,0.029603437500000013
+United Airlines,Houston,119,154,275,-0.10794363636363631
+United Airlines,Fort Lauderdale,9,5,14,0.2518642857142857
+United Airlines,Rio de Janeiro,1,1,2,0.08834999999999998
+United Airlines,Boston,10,17,27,-0.2242592592592592
+United Airlines,PA,1,0,1,0.6214
+United Airlines,Dulles,12,8,20,0.16011999999999998
+United Airlines,VA,2,1,3,0.3451333333333333
+United Airlines,the United App,2,1,3,0.2418
+United Airlines,Panama,3,4,7,-0.20315714285714284
+United Airlines,Hawaii,18,18,36,0.07759722222222219
+United Airlines,Frankfurt,7,23,30,-0.29806666666666665
+United Airlines,Chicago,119,142,261,-0.08536475095785455
+United Airlines,San Salvador,1,0,1,0.7269
+United Airlines,Vancouver,17,11,28,0.21734999999999993
+United Airlines,Newark,115,166,283,-0.15631590106007065
+United Airlines,Delta,23,13,36,0.20046944444444437
+United Airlines,San Diego,5,9,15,-0.11593999999999999
+United Airlines,San Francisco,72,73,145,0.028057241379310354
+United Airlines,Richmond,1,5,6,-0.5048333333333334
+United Airlines,Louisville,5,2,7,0.43385714285714283
+United Airlines,Baltimore,6,6,12,-0.004916666666666615
+United Airlines,Kentucky,0,1,1,-0.8982
+United Airlines,Australia,6,8,14,-0.14387142857142857
+United Airlines,United,21,10,31,0.23007741935483872
+United Airlines,Jacksonville,8,3,11,0.4727727272727273
+United Airlines,Seattle,12,25,37,-0.3573135135135135
+United Airlines,Washington,16,40,56,-0.2918678571428572
+United Airlines,Tahiti,8,1,9,0.6187111111111111
+United Airlines,SF,1,2,3,-0.24373333333333333
+United Airlines,Seoul,1,0,1,0.853
+United Airlines,San francisco,1,0,1,0.853
+United Airlines,Los Angeles,17,27,44,-0.17801363636363635
+United Airlines,LA,8,22,30,-0.2879966666666666
+United Airlines,Alaska,20,9,29,0.2423620689655173
+United Airlines,New York,19,21,40,-0.03494999999999996
+United Airlines,Charleston,1,1,2,0.10870000000000002
+United Airlines,Phoenix,19,14,33,0.04343636363636365
+United Airlines,America,5,3,8,0.10336250000000002
+United Airlines,Southwest,30,17,47,0.26086595744680846
+United Airlines,Jamaica,1,6,7,-0.6193857142857143
+United Airlines,Milwaukee,10,4,14,0.33304999999999996
+United Airlines,San Antonio,6,8,14,0.09659999999999999
+United Airlines,Sandwich,0,1,1,-0.7056
+United Airlines,Düsseldorf,1,0,1,0.9415
+United Airlines,Germany,5,10,15,-0.21217333333333332
+United Airlines,Barcelona,10,1,11,0.7445181818181819
+United Airlines,United plane,1,1,2,0.3951
+United Airlines,NE,1,0,1,0.9415
+United Airlines,India,4,7,11,-0.26318181818181813
+United Airlines,the United States of America,1,0,1,0.9322
+United Airlines,UK,1,5,6,-0.56775
+United Airlines,Albuquerque,2,0,2,0.35629999999999995
+United Airlines,North Dakota,1,0,1,0.3107
+United Airlines,Orlando,14,10,24,0.10515833333333331
+United Airlines,Portland,12,8,20,0.260115
+United Airlines,NYC,4,10,14,-0.2620571428571428
+United Airlines,Appleton,0,6,6,-0.8742166666666668
+United Airlines,Juneau,0,1,1,-0.9661
+United Airlines,US,28,31,61,-0.07073114754098356
+United Airlines,Airline,0,8,8,-0.8437875
+United Airlines,Guam,4,5,9,-0.19277777777777783
+United Airlines,san Francisco,0,2,2,-0.68755
+United Airlines,New Jersey,4,12,16,-0.28448125
+United Airlines,West Palm Beach,0,4,4,-0.672825
+United Airlines,Holland,0,1,1,-0.9968
+United Airlines,Dubai,1,9,10,-0.69133
+United Airlines,London,17,13,30,0.16508333333333342
+United Airlines,Washington DC,8,9,17,-0.1170764705882353
+United Airlines,Washing DC,0,1,1,-0.9501
+United Airlines,Little Rock,1,1,2,-0.10419999999999996
+United Airlines,New Orleans,10,6,16,0.26524375
+United Airlines,Auckland,1,1,2,-0.1492
+United Airlines,Adelaide,0,1,1,-0.9699
+United Airlines,New Zealand,3,2,5,0.19496000000000002
+United Airlines,USA,5,10,15,-0.25156
+United Airlines,Port Moody,0,1,1,-0.9501
+United Airlines,Athens,4,6,10,-0.04923000000000002
+United Airlines,Zurich,5,9,14,-0.1479142857142857
+United Airlines,Mumbai,6,2,8,0.5231125000000001
+United Airlines,Pacific,1,0,1,0.6939
+United Airlines,Micronesia,1,0,1,0.6939
+United Airlines,Dallas,8,14,22,-0.36719545454545455
+United Airlines,Geneva,2,0,2,0.60765
+United Airlines,Indianapolis,1,5,6,-0.38811666666666667
+United Airlines,Grand Rapids,0,7,7,-0.7834285714285716
+United Airlines,Indiana,0,1,1,-0.6103
+United Airlines,Lisbon,3,4,7,-0.08977142857142859
+United Airlines,Found,0,1,1,-0.968
+United Airlines,10:25am,0,1,1,-0.968
+United Airlines,Naples,3,0,3,0.6849666666666666
+United Airlines,Munich,5,13,18,-0.20948888888888892
+United Airlines,Cleveland,5,9,14,-0.2431357142857143
+United Airlines,Italy,6,8,14,-0.27896428571428566
+United Airlines,Guatemala,1,1,2,-0.29109999999999997
+United Airlines,Polaris,11,7,18,0.29062222222222217
+United Airlines,Anchorage,1,2,3,-0.26336666666666664
+United Airlines,Sydney,12,1,13,0.8119692307692307
+United Airlines,Exit,1,0,1,0.9945
+United Airlines,Maui,7,13,20,-0.26679500000000006
+United Airlines,Lahaina,1,0,1,0.7964
+United Airlines,the State of Hawaii,1,0,1,0.7964
+United Airlines,Molokai,1,0,1,0.7964
+United Airlines,Las Vegas,16,12,29,0.1871586206896551
+United Airlines,Roatan,0,1,1,-0.8544
+United Airlines,Europe,11,11,22,-0.17968181818181825
+United Airlines,Emirates,6,2,8,0.56235
+United Airlines,Singapore,13,2,15,0.7483933333333331
+United Airlines,USD,2,1,3,0.24643333333333337
+United Airlines,Cancun,4,5,9,0.01144444444444448
+United Airlines,Columbus,6,12,18,-0.26298333333333335
+United Airlines,Houston IAH,1,1,2,-0.015200000000000047
+United Airlines,n’t,2,1,3,0.4067
+United Airlines,Rome,3,7,10,-0.42661999999999994
+United Airlines,Florida,11,14,25,-0.11086000000000001
+United Airlines,Medford,3,0,3,0.6184333333333334
+United Airlines,Sao Paolo,0,1,1,-0.8055
+United Airlines,Bahamas,3,2,5,0.48545999999999995
+United Airlines,Miami,9,11,20,0.03227999999999999
+United Airlines,Premium Economy,1,0,1,0.9832
+United Airlines,Ft. Lauderdale,0,1,1,-0.9054
+United Airlines,Quebec city,0,1,1,-0.9054
+United Airlines,Vermont,0,2,2,-0.89135
+United Airlines,Missoula,1,0,1,0.5685
+United Airlines,Fort Myers,1,0,1,0.9349
+United Airlines,Washington Dulles,2,0,2,0.9131
+United Airlines,DC,11,15,26,-0.03175769230769231
+United Airlines,Switzerland,1,0,1,0.9684
+United Airlines,Austin,6,8,14,-0.1391285714285714
+United Airlines,Costa Rica,4,2,6,0.27371666666666666
+United Airlines,Toronto,16,21,37,-0.0656945945945946
+United Airlines,Mexico,9,13,22,-0.1451181818181818
+United Airlines,Manila,2,2,4,-0.023875000000000007
+United Airlines,Peru,0,4,4,-0.7527
+United Airlines,Lima,0,4,4,-0.85825
+United Airlines,DFW,1,0,1,0.8012
+United Airlines,Brussels,2,3,5,0.03410000000000004
+United Airlines,Thelma,1,0,1,0.9208
+United Airlines,Americas,0,1,1,-0.8769
+United Airlines,Tokyo,8,2,10,0.5322199999999999
+United Airlines,Bangkok,1,0,1,0.5925
+United Airlines,Japan,2,3,5,-0.24146
+United Airlines,LOS ANGELES,0,1,1,-0.9597
+United Airlines,SYDNEY,0,1,1,-0.9597
+United Airlines,Houston-Dallas,0,1,1,-0.9669
+United Airlines,Cincinnati,15,6,21,0.3458428571428572
+United Airlines,Philippines,1,2,3,-0.2992
+United Airlines,Montreal,4,7,11,-0.35179999999999995
+United Airlines,Asia,8,1,9,0.7002666666666666
+United Airlines,Syracuse,0,11,11,-0.8909545454545454
+United Airlines,Becky,2,0,2,0.9888
+United Airlines,Ottawa,1,4,5,-0.26972
+United Airlines,Sao Paulo,1,4,5,-0.17351999999999998
+United Airlines,Brazil,2,2,4,0.02200000000000002
+United Airlines,Belgrade,0,1,1,-0.6386
+United Airlines,Pittsburgh,6,12,18,-0.22869444444444442
+United Airlines,Vienna,1,3,4,-0.2975499999999999
+United Airlines,Delhi,7,5,12,0.06980833333333336
+United Airlines,Vegas,2,7,9,-0.39345555555555556
+United Airlines,Philadelphia,9,7,16,-0.0011312499999999448
+United Airlines,the Polaris Class,1,0,1,0.9564
+United Airlines,Tampa,15,15,30,0.07112666666666664
+United Airlines,Cape Town,0,3,3,-0.9555000000000001
+United Airlines,Sashauna,1,0,1,0.9801
+United Airlines,Calgary,8,5,13,0.2277307692307692
+United Airlines,YYZ,1,1,2,0.15909999999999996
+United Airlines,Texas,2,4,6,-0.23406666666666665
+United Airlines,Visas,0,1,1,-0.7939
+United Airlines,the United States,4,5,9,-0.02592222222222223
+United Airlines,Traverse City,0,2,2,-0.9001
+United Airlines,Detroit,0,9,9,-0.743611111111111
+United Airlines,Orange County,2,3,5,-0.11374000000000002
+United Airlines,UA1393,0,1,1,-0.3978
+United Airlines,NC,2,1,3,0.2894666666666667
+United Airlines,Santa Ana,1,0,1,0.12
+United Airlines,Canada,9,12,22,-0.05575454545454545
+United Airlines,Expedia,1,11,12,-0.72565
+United Airlines,Greenville,1,3,4,-0.43782499999999996
+United Airlines,550am,1,0,1,0.128
+United Airlines,the Pacific Ocean,0,1,1,-0.9482
+United Airlines,Dublin,4,13,17,-0.39514705882352935
+United Airlines,Paris,9,13,22,-0.2516409090909091
+United Airlines,Algiers,0,1,1,-0.9892
+United Airlines,Cedar Rapids,1,2,3,-0.19699999999999998
+United Airlines,ZERO,1,0,1,0.1779
+United Airlines,San Fran,1,3,4,-0.37840000000000007
+United Airlines,Nice,6,0,6,0.4483
+United Airlines,France,1,3,4,-0.26785000000000003
+United Airlines,Venice,3,1,4,0.11965
+United Airlines,us,1,3,4,-0.49777499999999997
+United Airlines,Minnesota,2,2,4,-0.13900000000000004
+United Airlines,Refunds,0,1,1,-0.884
+United Airlines,Ohio,0,4,4,-0.7561
+United Airlines,Kansas City,4,10,14,-0.3498071428571429
+United Airlines,non-U.S.,0,1,1,-0.5876
+United Airlines,Britain,0,1,1,-0.1513
+United Airlines,Amman,0,2,2,-0.5178
+United Airlines,Stockholm,1,0,1,0.5982
+United Airlines,Mississippi,1,1,2,0.0852
+United Airlines,Arizona,1,1,2,-0.20265
+United Airlines,Atlanta,6,12,18,-0.17165555555555556
+United Airlines,Denmark,1,0,1,0.1524
+United Airlines,Birmingham,0,2,2,-0.9817
+United Airlines,Honolulu,19,19,38,0.13245789473684208
+United Airlines,Edinburgh,3,2,5,0.23181999999999997
+United Airlines,San Francisco Airport,1,0,1,0.9393
+United Airlines,Israel,1,3,4,-0.489225
+United Airlines,the Salt Lake Airport,0,1,1,-0.9943
+United Airlines,Tel Aviv,0,8,8,-0.7230749999999999
+United Airlines,Caribbean,1,0,1,0.4158
+United Airlines,Quebec City,1,0,1,0.4158
+United Airlines,Asheville,1,0,1,0.9906
+United Airlines,Melbourne,2,6,8,-0.391675
+United Airlines,+ United,1,0,1,0.9906
+United Airlines,West Palm,1,0,1,0.8323
+United Airlines,England,0,1,1,-0.8467
+United Airlines,Norfolk,1,14,15,-0.5766066666666667
+United Airlines,East,0,1,1,-0.5694
+United Airlines,Qatar,2,0,2,0.9500500000000001
+United Airlines,HNL United,1,0,1,0.9952
+United Airlines,Hilton,3,1,4,0.1338
+United Airlines,737s,0,1,1,-0.8851
+United Airlines,APAC,0,1,1,-0.8851
+United Airlines,Tallahassee,1,0,1,0.7745
+United Airlines,ATL,1,0,1,0.7745
+United Airlines,Hubby,2,0,2,0.8167
+United Airlines,Tel-Aviv,0,1,1,-0.926
+United Airlines,Raleigh,0,1,1,-0.6308
+United Airlines,Allentown,0,1,1,-0.8018
+United Airlines,Emergency Exit row,1,0,1,0.519
+United Airlines,Key West,3,0,3,0.49806666666666666
+United Airlines,Missouri,1,1,2,0.22535
+United Airlines,Palm Springs,1,10,11,-0.38413636363636366
+United Airlines,the middle eastern,1,0,1,0.9878
+United Airlines,Kandahar,0,1,1,-0.8143
+United Airlines,Afghanistan,0,2,2,-0.83235
+United Airlines,Puerto Vallarta,3,3,6,0.04079999999999997
+United Airlines,Salt Lake,2,0,2,0.9769
+United Airlines,Manchester,2,3,5,-0.038700000000000026
+United Airlines,United gate,1,0,1,0.6705
+United Airlines,US150,0,1,1,-0.7549
+United Airlines,A.A.,0,1,1,-0.7549
+United Airlines,D.C,1,0,1,0.83
+United Airlines,California,2,3,5,-0.13878000000000004
+United Airlines,Rochester,4,8,12,-0.32875000000000004
+United Airlines,Buffalo,0,4,4,-0.8990750000000001
+United Airlines,Aspen,7,1,8,0.8269000000000001
+United Airlines,Merida Mexico,1,0,1,0.9812
+United Airlines,Ireland,1,2,3,-0.2745
+United Airlines,Edmonton,1,0,1,0.9753
+United Airlines,El Salvador Feb 8,1,0,1,0.9753
+United Airlines,LAX,1,0,1,0.9753
+United Airlines,Mexico City,1,1,2,0.00385000000000002
+United Airlines,Springfield,3,2,5,-0.05406000000000002
+United Airlines,Sarasota,3,0,3,0.7092666666666666
+United Airlines,new jersey,0,1,1,-0.3874
+United Airlines,Knoxville,7,4,11,0.09637272727272726
+United Airlines,El Paso,3,4,7,-0.07415714285714288
+United Airlines,Reno,6,2,8,0.44830000000000003
+United Airlines,Bonaire,0,1,1,-0.233
+United Airlines,Saskatoon,0,2,2,-0.9122
+United Airlines,SSSS,1,0,1,0.8348
+United Airlines,Istanbul,0,1,1,-0.7424
+United Airlines,china,1,0,1,0.9822
+United Airlines,PE,1,0,1,0.9822
+United Airlines,Covid,0,3,3,-0.654
+United Airlines,Bentonville,1,0,1,0.8031
+United Airlines,Bozeman,2,2,4,-0.037525
+United Airlines,MT,2,1,3,0.45326666666666665
+United Airlines,Montrose,1,0,1,0.8031
+United Airlines,Oregon,3,2,5,0.06740000000000002
+United Airlines,few - United,1,0,1,0.9906
+United Airlines,West Jet,1,0,1,0.9906
+United Airlines,Gulf,1,0,1,0.9906
+United Airlines,Sahara,1,0,1,0.9906
+United Airlines,Indigo,1,0,1,0.9906
+United Airlines,Thai,1,0,1,0.9906
+United Airlines,Air Asia,1,0,1,0.9906
+United Airlines,Philly,1,0,1,0.5436
+United Airlines,San Juan,2,1,3,0.06993333333333333
+United Airlines,United Hell,0,1,1,-0.9705
+United Airlines,Amsterdam,6,8,14,0.029721428571428534
+United Airlines,Landing,0,1,1,-0.5574
+United Airlines,Ghana,0,3,3,-0.8969333333333332
+United Airlines,the east coast,2,1,3,0.1895
+United Airlines,Pohnpei,0,1,1,-0.3319
+United Airlines,Johannesburg,0,1,1,-0.9577
+United Airlines,NJ,2,1,3,0.12426666666666668
+United Airlines,Cusco,0,1,1,-0.551
+United Airlines,Paducah,2,0,2,0.9706
+United Airlines,Premium Economy:,1,0,1,0.977
+United Airlines,LH,0,3,3,-0.18089999999999998
+United Airlines,Charlotte,8,10,19,-0.010868421052631597
+United Airlines,Salt Lake City,4,12,16,-0.4192687499999999
+United Airlines,detroit,0,1,1,-0.8773
+United Airlines,Shanghai,1,1,2,0.14375
+United Airlines,Croatia,0,3,3,-0.2633
+United Airlines,Grand Junction,2,2,4,-0.022675
+United Airlines,orange county,1,0,1,0.7447
+United Airlines,Omaha,5,6,11,0.03463636363636362
+United Airlines,Glacier National Park,1,0,1,0.6326
+United Airlines,Turkey,1,0,1,0.0671
+United Airlines,Romania,0,2,2,-0.3725
+United Airlines,Fort Worth,1,0,1,0.9566
+United Airlines,Tulsa,1,3,4,-0.59725
+United Airlines,FedEx,0,1,1,-0.9201
+United Airlines,Berlin,1,3,4,-0.32535000000000003
+United Airlines,n’t United,0,1,1,-0.9908
+United Airlines,Colorado,2,6,8,-0.22997499999999998
+United Airlines,Nashville,12,8,20,0.09807999999999999
+United Airlines,Santa Clara,1,0,1,0.9714
+United Airlines,Tucson,2,2,4,-0.11795
+United Airlines,Jersey,0,1,1,-0.9805
+United Airlines,Asiana,1,0,1,0.9841
+United Airlines,Iowa,1,1,2,0.09620000000000001
+United Airlines,Glasgow,0,1,1,-0.9106
+United Airlines,Pathetic,0,1,1,-0.9751
+United Airlines,Houston-Honolulu,0,1,1,-0.9751
+United Airlines,St. Louis,6,7,13,0.1331846153846154
+United Airlines,Illinois,1,1,2,0.03634999999999999
+United Airlines,Washington D.C.,2,1,3,0.34193333333333326
+United Airlines,D.C.,4,1,5,0.41348
+United Airlines,Albany,8,5,13,0.1944923076923077
+United Airlines,NY,1,0,1,0.7594
+United Airlines,Frankfort,0,1,1,-0.809
+United Airlines,San Jose,2,8,10,-0.57
+United Airlines,St. Thomas,1,0,1,0.875
+United Airlines,Puerto Rico,2,2,4,-0.021874999999999978
+United Airlines,Savannah,0,7,7,-0.8615142857142857
+United Airlines,Claudia Chavarrio,1,0,1,0.9632
+United Airlines,the Pacific ocean,1,0,1,0.9958
+United Airlines,Business,1,0,1,0.9958
+United Airlines,Fresno,1,2,3,-0.4102333333333333
+United Airlines,Oklahoma City,2,5,8,-0.08919999999999997
+United Airlines,Fort Meyers,1,0,1,0.9718
+United Airlines,Spain,1,0,1,0.3145
+United Airlines,Victoria,1,0,1,0.3145
+United Airlines,Economy,1,2,3,0.29819999999999997
+United Airlines,Pennsylvania,1,0,1,0.9081
+United Airlines,Myrtle Beach,1,2,3,-0.3478666666666667
+United Airlines,Des Moines,1,2,3,-0.3190333333333333
+United Airlines,the Salt Lake City,0,1,1,-0.9652
+United Airlines,Panama City,2,1,3,0.4237
+United Airlines,the united way,1,0,1,0.9579
+United Airlines,Hate United,0,1,1,-0.9739
+United Airlines,Madrid,1,1,2,0.019799999999999984
+United Airlines,Colorado Springs,3,6,9,-0.2821666666666667
+United Airlines,Santo Domingo,0,2,2,-0.89885
+United Airlines,Domingo,1,2,3,-0.27436666666666665
+United Airlines,Providence,0,7,7,-0.839757142857143
+United Airlines,Wichita,6,2,8,0.44177500000000003
+United Airlines,Meridian,1,0,1,0.9763
+United Airlines,Puerto Plata,0,2,2,-0.4587
+United Airlines,Greece,1,4,5,-0.64294
+United Airlines,Pasco,0,1,1,-0.7596
+United Airlines,Tennessee,1,0,1,0.0129
+United Airlines,Georgia,0,1,1,-0.8845
+United Airlines,Priceline.,1,0,1,0.9322
+United Airlines,Cabo,1,0,1,0.9305
+United Airlines,Minneapolis,3,2,5,-0.10350000000000001
+United Airlines,Sedona,0,1,1,-0.4466
+United Airlines,Steamboat Springs,0,1,1,-0.8857
+United Airlines,El Salvador,0,1,1,-0.3744
+United Airlines,Kansas,4,0,4,0.83875
+United Airlines,Harrisburg,0,1,1,-0.7193
+United Airlines,Utah,1,1,2,-0.26225
+United Airlines,New Delhi,0,1,1,-0.1283
+United Airlines,Sacramento,9,5,14,-0.16536428571428582
+United Airlines,Midland,0,1,1,-0.9464
+United Airlines,O'Hare,1,0,1,0.7031
+United Airlines,B752,1,0,1,0.0228
+United Airlines,B789,1,0,1,0.9375
+United Airlines,Kenan,1,0,1,0.9911
+United Airlines,Copa,2,0,2,0.5491
+United Airlines,PTY,5,0,5,0.5908800000000001
+United Airlines,KC,0,2,2,-0.9725
+United Airlines,Regina,1,0,1,0.8684
+United Airlines,Dulles Int Airport,0,1,1,-0.7105
+United Airlines,Virginia,1,3,4,-0.317675
+United Airlines,Va,0,1,1,-0.7105
+United Airlines,Va.,0,2,2,-0.7105
+United Airlines,Santiago,1,0,1,0.5574
+United Airlines,Africa,2,1,3,0.16186666666666666
+United Airlines,Liberia,0,2,2,-0.882
+United Airlines,Brownsville,0,1,1,-0.9442
+United Airlines,Horrendous,0,1,1,-0.7966
+United Airlines,Montana,0,1,1,-0.9199
+United Airlines,Mobile,1,0,1,0.8128
+United Airlines,South Bend,1,2,3,-0.4494666666666666
+United Airlines,United States,1,1,2,-0.012050000000000005
+United Airlines,Addis Ababa,0,1,1,-0.9485
+United Airlines,Ethiopia,0,3,3,-0.9485
+United Airlines,san diego,1,0,1,0.8603
+United Airlines,Usually United,0,1,1,-0.126
+United Airlines,Hungary,0,1,1,-0.9225
+United Airlines,wellington,1,0,1,0.9592
+United Airlines,Virgin,2,0,2,0.5432
+United Airlines,Pensacola,0,1,1,-0.9505
+United Airlines,Connecticut,0,1,1,-0.3931
+United Airlines,Aug,1,0,1,0.7535
+United Airlines,Miami Int,1,0,1,0.8682
+United Airlines,Priceline,2,1,3,0.30066666666666664
+United Airlines,South Africa,0,2,2,-0.79415
+United Airlines,Zambia,1,1,2,0.02679999999999999
+United Airlines,UA,0,2,2,-0.8551500000000001
+United Airlines,Ft Lauderdale,0,4,4,-0.76745
+United Airlines,Xprescheck,1,0,1,0.9168
+United Airlines,Maine,0,2,2,-0.9039
+United Airlines,phoenix,0,1,1,-0.8478
+United Airlines,Aruba 1-2,1,0,1,0.9824
+United Airlines,Vinay,2,0,2,0.9307
+United Airlines,Wyoming,0,1,1,-0.8364
+United Airlines,denver,0,2,2,-0.8911
+United Airlines,Stephen,2,0,2,0.9721
+United Airlines,Prem Plus,1,0,1,0.9783
+United Airlines,Zimbabwe,1,0,1,0.897
+United Airlines,Nantucket,0,1,1,-0.4184
+United Airlines,Las Vegas Airport,1,0,1,0.8816
+United Airlines,IL,1,0,1,0.0678
+United Airlines,McD,0,1,1,-0.3738
+United Airlines,Easter,2,0,2,0.8873
+United Airlines,Uganda,1,0,1,0.8974
+United Airlines,the Dominican Republic,0,2,2,-0.88025
+United Airlines,D.R.,0,1,1,-0.9182
+United Airlines,G.R.,0,1,1,-0.9182
+United Airlines,Michigan,0,2,2,-0.9498
+United Airlines,Casper,0,2,2,-0.7925
+United Airlines,Sioux City,0,1,1,-0.9085
+United Airlines,the International Desk,0,2,2,-0.9367
+United Airlines,El Al,0,1,1,-0.9367
+United Airlines,the United rep,1,0,1,0.9774
+United Airlines,UA490,1,0,1,0.9241
+United Airlines,Green Bay,1,0,1,0.9806
+United Airlines,Kiosk,1,0,1,0.9806
+United Airlines,Skycaps,1,0,1,0.9806
+United Airlines,Meme,0,1,1,-0.5944
+United Airlines,Nassau,0,1,1,-0.101
+United Airlines,Cabo San Lucas,1,0,1,0.9881
+United Airlines,MO,0,1,1,-0.9337
+United Airlines,Guatemala City,0,1,1,-0.6705
+United Airlines,firey,1,0,1,0.8926
+United Airlines,545pm,1,0,1,0.6083
+United Airlines,Clorox,3,0,3,0.9954999999999999
+United Airlines,Mex City,1,0,1,0.1288
+United Airlines,North America,1,1,2,-0.008299999999999974
+United Airlines,Greensboro,0,1,1,-0.9613
+United Airlines,Island,0,1,1,-0.9613
+United Airlines,SW,0,1,1,-0.0137
+United Airlines,Boise,1,4,5,-0.33083999999999997
+United Airlines,Thailand,1,0,1,0.8885
+United Airlines,San Fransico,0,1,1,-0.9448
+United Airlines,Prague,2,2,4,0.011699999999999988
+United Airlines,Dollar,0,1,1,-0.9896
+United Airlines,St Louis,5,3,8,0.13825000000000012
+United Airlines,Greyhound,1,0,1,0.8215
+United Airlines,the Dominican Republic from DC,0,1,1,-0.8423
+United Airlines,New York City,0,2,2,-0.85375
+United Airlines,Portland City,0,1,1,-0.9474
+United Airlines,Moscow,0,1,1,-0.8086
+United Airlines,Coronavirus,0,2,2,-0.7261
+United Airlines,Medellin,1,0,1,0.5619
+United Airlines,Puj Dominican,1,0,1,0.0129
+United Airlines,Auckland via San Francisco,2,0,2,0.8236
+United Airlines,NZ,1,0,1,0.9288
+United Airlines,Corona,0,1,1,-0.8439
+United Airlines,Punta,1,0,1,0.872
+United Airlines,Austria,1,0,1,0.8768
+United Airlines,Hong Kong,1,1,2,-0.35969999999999996
+United Airlines,China,0,2,2,-0.9399
+United Airlines,Abu Dhabi,1,0,1,0.7056
+United Airlines,UAE,1,0,1,0.7056
+United Airlines,"Washington,",1,0,1,0.2635
+United Airlines,Lihue,0,1,1,-0.9744
+United Airlines,Kauai,0,1,1,-0.9744
+United Airlines,Auckland New Zealand,0,1,1,-0.9713
+United Airlines,San Fransisco,1,0,1,0.0258
+United Airlines,Staci,2,0,2,0.9452
+United Airlines,Auckland to Edinburgh,1,0,1,0.7351
+United Airlines,opinii,1,0,1,0.8316
+United Airlines,San Francisco-,1,0,1,0.978
+United Airlines,"Denver,(who'd",1,0,1,0.8656
+United Airlines,Redding,2,0,2,0.9359
+United Airlines,San José,1,0,1,0.3612
+United Airlines,Belize,0,2,2,-0.60135
+United Airlines,Palm Beach,1,0,1,0.9601
+United Airlines,Memphis,1,1,2,-0.22610000000000002
+United Airlines,"Washington, DC",1,0,1,0.9657
+United Airlines,AU,1,0,1,0.8713
+United Airlines,Ecuador,1,0,1,0.2462
+United Airlines,Lax,0,2,2,-0.52505
+United Airlines,Beirut,0,2,2,-0.1546
+United Airlines,Minot,1,0,2,0.3715
+United Airlines,AC595,1,0,1,0.9931
+United Airlines,Beijing,3,0,3,0.9908
+United Airlines,Québec,2,0,2,0.7217
+United Airlines,Papeete PPT,1,0,1,0.953
+United Airlines,BOR,1,0,1,0.953
+United Airlines,ROC,2,0,2,0.3831
+United Airlines,Aruba,1,0,1,0.1434
+United Airlines,UA324,1,0,1,0.9864
+United Airlines,Aguadilla,2,0,2,0.7963
+United Airlines,Hartford,0,1,1,-0.7167
+United Airlines,B21,0,1,1,-0.785
+United Airlines,Kahului,0,1,1,-0.8185
+United Airlines,Saint Louis,0,1,1,-0.5574
+United Airlines,OH,2,0,2,0.9398
+United Airlines,the Atlantic Ocean,1,0,1,0.9398
+United Airlines,Winnipeg,0,2,2,-0.8074
+United Airlines,Oakland,2,0,2,0.6028
+United Airlines,Northern New Jersey,0,1,1,-0.8652
+United Airlines,charlotte,0,1,1,-0.34
+United Airlines,NRT,1,0,1,0.9673
+United Airlines,Kona,2,0,2,0.7328
+United Airlines,San Francisco / Chicago,1,0,1,0.8256
+United Airlines,Ontario,0,1,1,-0.8816
+United Airlines,Acapulco,1,0,1,0.8406
+United Airlines,Newark United,0,1,1,-0.8597
+United Airlines,South America,0,1,1,-0.9981
+United Airlines,Columbia,1,0,1,0.0093
+United Airlines,Las Angeles,1,0,1,0.64
+United Airlines,Idaho,0,2,2,-0.5181
+United Airlines,Maldives,0,1,1,-0.7717
+United Airlines,Rapid City,0,2,2,-0.9743
+United Airlines,Santa Rosa,0,1,1,-0.6006
+United Airlines,L.A.,2,0,2,0.8001
+United Airlines,Dayton,1,0,1,0.8001
